@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to go mountainbiking
 
 ### Spotify Playing 🎧
-[](https://open.spotify.com/user/5xujnuvk3zzfzgt5953dl342z?si=A4seavF5ToiglXf2A1oZDQ)
+[<img src="https://now-playing-profile.thomasiam.vercel.app/now-playing" width="256" height="64" alt="Now Playing">](https://open.spotify.com/user/5xujnuvk3zzfzgt5953dl342z?si=A4seavF5ToiglXf2A1oZDQ)
 
 ### Connect with me:
 
