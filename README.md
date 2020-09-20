@@ -70,9 +70,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com//ThomasIAm/thomasvdn-Angular/pull/12) in [ThomasIAm/thomasvdn-Angular](https://github.com//ThomasIAm/thomasvdn-Angular)
-2. 🎉 Merged PR [#11](https://github.com//ThomasIAm/thomasvdn-Angular/pull/11) in [ThomasIAm/thomasvdn-Angular](https://github.com//ThomasIAm/thomasvdn-Angular)
-3. 🎉 Merged PR [#10](https://github.com//ThomasIAm/thomasvdn-Angular/pull/10) in [ThomasIAm/thomasvdn-Angular](https://github.com//ThomasIAm/thomasvdn-Angular)
+1. 💪 Opened PR [#1](https://github.com//ThomasIAm/personal-site-hydejack/pull/1) in [ThomasIAm/personal-site-hydejack](https://github.com//ThomasIAm/personal-site-hydejack)
+2. 🎉 Merged PR [#12](https://github.com//ThomasIAm/thomasvdn-Angular/pull/12) in [ThomasIAm/thomasvdn-Angular](https://github.com//ThomasIAm/thomasvdn-Angular)
+3. 🎉 Merged PR [#11](https://github.com//ThomasIAm/thomasvdn-Angular/pull/11) in [ThomasIAm/thomasvdn-Angular](https://github.com//ThomasIAm/thomasvdn-Angular)
   <!--END_SECTION:activity-->
 
 </details>
