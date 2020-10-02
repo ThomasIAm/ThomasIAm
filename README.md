@@ -70,9 +70,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/Bloemendaal/Windesheim-ELO/pull/31) in [Bloemendaal/Windesheim-ELO](https://github.com/Bloemendaal/Windesheim-ELO)
-2. ❗️ Closed issue [#2](https://github.com/ICT-Discord/project-showcase/issues/2) in [ICT-Discord/project-showcase](https://github.com/ICT-Discord/project-showcase)
-3. ❗️ Opened issue [#1](https://github.com/ICT-Discord/project-showcase/issues/1) in [ICT-Discord/project-showcase](https://github.com/ICT-Discord/project-showcase)
+1. 🎉 Merged PR [#2](https://github.com/ThomasIAm/personal-site-hydejack/pull/2) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+2. 💪 Opened PR [#31](https://github.com/Bloemendaal/Windesheim-ELO/pull/31) in [Bloemendaal/Windesheim-ELO](https://github.com/Bloemendaal/Windesheim-ELO)
+3. ❗️ Closed issue [#2](https://github.com/ICT-Discord/project-showcase/issues/2) in [ICT-Discord/project-showcase](https://github.com/ICT-Discord/project-showcase)
   <!--END_SECTION:activity-->
 
 </details>
