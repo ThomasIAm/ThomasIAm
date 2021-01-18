@@ -70,9 +70,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/ThomasIAm/upptime/issues/7) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-2. ❗️ Opened issue [#6](https://github.com/ThomasIAm/upptime/issues/6) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-3. 🎉 Merged PR [#4](https://github.com/ThomasIAm/personal-site-hydejack/pull/4) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+1. ❗️ Closed issue [#7](https://github.com/ThomasIAm/upptime/issues/7) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+2. 🗣 Commented on [#7](https://github.com/ThomasIAm/upptime/issues/7) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+3. 🗣 Commented on [#6](https://github.com/ThomasIAm/upptime/issues/6) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
   <!--END_SECTION:activity-->
 
 </details>
