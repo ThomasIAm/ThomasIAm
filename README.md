@@ -70,9 +70,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#60](https://github.com/ThomasIAm/upptime/issues/60) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-2. ❗️ Opened issue [#59](https://github.com/ThomasIAm/upptime/issues/59) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-3. 🎉 Merged PR [#1](https://github.com/ThomasIAm/safaribooks/pull/1) in [ThomasIAm/safaribooks](https://github.com/ThomasIAm/safaribooks)
+1. ❗️ Closed issue [#60](https://github.com/ThomasIAm/upptime/issues/60) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+2. 🗣 Commented on [#60](https://github.com/ThomasIAm/upptime/issues/60) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+3. ❗️ Closed issue [#59](https://github.com/ThomasIAm/upptime/issues/59) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
   <!--END_SECTION:activity-->
 
 </details>
