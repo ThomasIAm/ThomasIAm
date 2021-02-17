@@ -1,15 +1,17 @@
 ### Hi there, I'm Thomas 👋
 
-[![Website](https://img.shields.io/website?label=tvdn.me&style=for-the-badge&url=https%3A%2F%2Ftvdn.me)](https://tvdn.me)
+[![Personal Website](https://img.shields.io/website?label=tvdn.me&style=for-the-badge&url=https%3A%2F%2Ftvdn.me)](https://tvdn.me)
+[![Personal Website Netlify Status](https://api.netlify.com/api/v1/badges/6f24e10c-e713-44fc-b3e8-cd15750aec9f/deploy-status)](https://app.netlify.com/sites/tvdn/deploys)
+
 [![Wiki](https://img.shields.io/website?label=wiki.tvdn.me&style=for-the-badge&url=https%3A%2F%2Fwiki.tvdn.me)](https://wiki.tvdn.me)
 
 ## I'm a Son, Brother, and Student!
 
-- 🔭 I'm currently working on a [Discord bot][windesheimdiscordbot] (and its [API][windesheimdiscordapi])
+- 🔭 I'm currently an intern at [SALT Cyber Security](salt) researching practical applications for [Fully Homomorphic Encryption](fhewiki)
 - 🌱 I'm currently learning how to be a successfull IT-pro at [Windesheim University][windesheim]
-- 💼 I'm looking for a challenge in infrastructure or security during my study
-- 🥅 2020 Goals: ~~Go out with friends more~~ Stay safe
-- ⚡ Fun fact: I love to go mountainbiking
+- 💼 I'm looking for a challenge in infrastructure or security during my study (after I finish my internship 😉)
+- 🥅 2021 Goals: remain mentally healthy and *carpe diem*
+- ⚡ Fun fact: I won a bike once (don't look up any pictures of me receiving it)
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-profile.thomasiam.vercel.app/now-playing" width="256" height="64" alt="Now Playing">](https://open.spotify.com/user/5xujnuvk3zzfzgt5953dl342z?si=A4seavF5ToiglXf2A1oZDQ)
@@ -17,9 +19,9 @@
 ### Connect with me:
 
 [<img align="left" alt="TvdN.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Thomas van den Nieuwenhoff | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Thomas van den Nieuwenhoff | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Thomas van den Nieuwenhoff | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Thomas van den Nieuwenhoff | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Thomas van den Nieuwenhoff | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/skype.svg" />][skype]
 [<img align="left" alt="Thomas van den Nieuwenhoff | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/steam.svg" />][steam]
 
@@ -32,6 +34,7 @@
 [<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />][ansible]
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][bash]
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
+[<img align="left" alt="Chrome Extension" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png" />][chromeextension]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
@@ -86,6 +89,8 @@
 </details>
 
 
+[salt]: https://salt-security.com
+[fhewiki]: https://en.wikipedia.org/wiki/Homomorphic_encryption
 [windesheimdiscordbot]: https://github.com/Wendelstein7/WindesheimDiscordBot
 [windesheimdiscordapi]: https://github.com/ThomasIAm/WindesheimDiscordAPI
 [windesheim]: https://www.windesheim.nl/opleidingen/deeltijd/bachelor/hbo-ict
@@ -128,3 +133,4 @@
 [vim]: http://www.vim.org/download.php
 [windows]: https://www.microsoft.com/en-us/windows
 [terminal]: https://github.com/topics/terminal
+[chromeextension]: https://developer.chrome.com/docs/extensions/
