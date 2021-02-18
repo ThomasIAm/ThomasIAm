@@ -73,9 +73,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#62](https://github.com/ThomasIAm/upptime/issues/62) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-2. 🎉 Merged PR [#5](https://github.com/ThomasIAm/WindeSearch/pull/5) in [ThomasIAm/WindeSearch](https://github.com/ThomasIAm/WindeSearch)
-3. 🎉 Merged PR [#4](https://github.com/ThomasIAm/WindeSearch/pull/4) in [ThomasIAm/WindeSearch](https://github.com/ThomasIAm/WindeSearch)
+1. ❗️ Closed issue [#62](https://github.com/ThomasIAm/upptime/issues/62) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+2. 🗣 Commented on [#62](https://github.com/ThomasIAm/upptime/issues/62) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+3. ❗️ Opened issue [#62](https://github.com/ThomasIAm/upptime/issues/62) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
   <!--END_SECTION:activity-->
 
 </details>
