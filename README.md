@@ -73,9 +73,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ThomasIAm/WindeSearch/pull/4) in [ThomasIAm/WindeSearch](https://github.com/ThomasIAm/WindeSearch)
-2. 💪 Opened PR [#4](https://github.com/ThomasIAm/WindeSearch/pull/4) in [ThomasIAm/WindeSearch](https://github.com/ThomasIAm/WindeSearch)
-3. 🎉 Merged PR [#3](https://github.com/ThomasIAm/WindeSearch/pull/3) in [ThomasIAm/WindeSearch](https://github.com/ThomasIAm/WindeSearch)
+1. 🎉 Merged PR [#5](https://github.com/ThomasIAm/WindeSearch/pull/5) in [ThomasIAm/WindeSearch](https://github.com/ThomasIAm/WindeSearch)
+2. 🎉 Merged PR [#4](https://github.com/ThomasIAm/WindeSearch/pull/4) in [ThomasIAm/WindeSearch](https://github.com/ThomasIAm/WindeSearch)
+3. 💪 Opened PR [#4](https://github.com/ThomasIAm/WindeSearch/pull/4) in [ThomasIAm/WindeSearch](https://github.com/ThomasIAm/WindeSearch)
   <!--END_SECTION:activity-->
 
 </details>
