@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I won a bike once (don't look up any pictures of me receiving it)
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-profile.thomasiam.vercel.app/now-playing" width="256" height="64" alt="Now Playing">](https://open.spotify.com/user/5xujnuvk3zzfzgt5953dl342z?si=A4seavF5ToiglXf2A1oZDQ)
+[<img src="https://now-playing-profile.thomasiam.vercel.app/now-playing" width="256" height="64" alt="Now Playing">](https://now-playing-profile.thomasiam.vercel.app/now-playing?open)
 
 ### Connect with me:
 
