@@ -73,9 +73,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/ThomasIAm/personal-site-hydejack/pull/18) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-2. 💪 Opened PR [#18](https://github.com/ThomasIAm/personal-site-hydejack/pull/18) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-3. 🎉 Merged PR [#17](https://github.com/ThomasIAm/personal-site-hydejack/pull/17) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+1. ❗️ Opened issue [#78](https://github.com/ThomasIAm/upptime/issues/78) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+2. 🗣 Commented on [#77](https://github.com/ThomasIAm/upptime/issues/77) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+3. ❗️ Closed issue [#77](https://github.com/ThomasIAm/upptime/issues/77) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
   <!--END_SECTION:activity-->
 
 </details>
