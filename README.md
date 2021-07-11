@@ -73,8 +73,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6787](https://github.com/MicrosoftDocs/visualstudio-docs/pull/6787) in [MicrosoftDocs/visualstudio-docs](https://github.com/MicrosoftDocs/visualstudio-docs)
-2. ❗️ Closed issue [#98](https://github.com/ThomasIAm/upptime/issues/98) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+1. ❗️ Opened issue [#99](https://github.com/ThomasIAm/upptime/issues/99) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+2. 💪 Opened PR [#6787](https://github.com/MicrosoftDocs/visualstudio-docs/pull/6787) in [MicrosoftDocs/visualstudio-docs](https://github.com/MicrosoftDocs/visualstudio-docs)
 3. 🗣 Commented on [#98](https://github.com/ThomasIAm/upptime/issues/98) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
   <!--END_SECTION:activity-->
 
