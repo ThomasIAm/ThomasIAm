@@ -73,9 +73,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#112](https://github.com/ThomasIAm/upptime/issues/112) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-2. 🗣 Commented on [#112](https://github.com/ThomasIAm/upptime/issues/112) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-3. ❗️ Opened issue [#112](https://github.com/ThomasIAm/upptime/issues/112) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+1. ❗️ Opened issue [#113](https://github.com/ThomasIAm/upptime/issues/113) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+2. ❗️ Closed issue [#112](https://github.com/ThomasIAm/upptime/issues/112) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+3. 🗣 Commented on [#112](https://github.com/ThomasIAm/upptime/issues/112) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
   <!--END_SECTION:activity-->
 
 </details>
