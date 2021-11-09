@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ThomasIAm/ThomasIAm](https://github.com/ThomasIAm/ThomasIAm)
-2. 
-3. 
+1. 🎉 Merged PR [#26](https://github.com/ThomasIAm/personal-site-hydejack/pull/26) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+2. 💪 Opened PR [#26](https://github.com/ThomasIAm/personal-site-hydejack/pull/26) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+3. ⭐ Starred [ThomasIAm/ThomasIAm](https://github.com/ThomasIAm/ThomasIAm)
 4. 
 5. 
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 9th, 2021, 7:44:52 PM
+Last Updated: Tuesday, November 9th, 2021, 8:13:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
