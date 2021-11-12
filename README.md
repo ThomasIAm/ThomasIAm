@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#114](https://github.com/ThomasIAm/upptime/issues/114) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-2. ❗️ Opened issue [#114](https://github.com/ThomasIAm/upptime/issues/114) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-3. 🎉 Merged PR [#1](https://github.com/ThomasIAm/VM2Portaal/pull/1) in [ThomasIAm/VM2Portaal](https://github.com/ThomasIAm/VM2Portaal)
-4. 💪 Opened PR [#1](https://github.com/ThomasIAm/VM2Portaal/pull/1) in [ThomasIAm/VM2Portaal](https://github.com/ThomasIAm/VM2Portaal)
-5. 🎉 Merged PR [#26](https://github.com/ThomasIAm/personal-site-hydejack/pull/26) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+1. 💪 Opened PR [#27](https://github.com/ThomasIAm/personal-site-hydejack/pull/27) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+2. ⭐ Starred [agneym/generate-og-image](https://github.com/agneym/generate-og-image)
+3. ✔️ Closed issue [#114](https://github.com/ThomasIAm/upptime/issues/114) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+4. ❗️ Opened issue [#114](https://github.com/ThomasIAm/upptime/issues/114) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+5. 🎉 Merged PR [#1](https://github.com/ThomasIAm/VM2Portaal/pull/1) in [ThomasIAm/VM2Portaal](https://github.com/ThomasIAm/VM2Portaal)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 12th, 2021, 11:16:19 PM
+Last Updated: Friday, November 12th, 2021, 11:39:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
