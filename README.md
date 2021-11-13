@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#27](https://github.com/ThomasIAm/personal-site-hydejack/pull/27) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-2. 🔱 Forked [ThomasIAm/og-image](https://github.com/ThomasIAm/og-image) from [vercel/og-image](https://github.com/vercel/og-image)
-3. 💪 Opened PR [#27](https://github.com/ThomasIAm/personal-site-hydejack/pull/27) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-4. ⭐ Starred [agneym/generate-og-image](https://github.com/agneym/generate-og-image)
-5. ✔️ Closed issue [#114](https://github.com/ThomasIAm/upptime/issues/114) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+1. 🎉 Merged PR [#29](https://github.com/ThomasIAm/personal-site-hydejack/pull/29) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+2. 💪 Opened PR [#29](https://github.com/ThomasIAm/personal-site-hydejack/pull/29) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+3. 🎉 Merged PR [#28](https://github.com/ThomasIAm/personal-site-hydejack/pull/28) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+4. 💪 Opened PR [#28](https://github.com/ThomasIAm/personal-site-hydejack/pull/28) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+5. ❌ Closed PR [#27](https://github.com/ThomasIAm/personal-site-hydejack/pull/27) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 13th, 2021, 1:52:48 AM
+Last Updated: Saturday, November 13th, 2021, 2:56:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
