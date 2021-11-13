@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#29](https://github.com/ThomasIAm/personal-site-hydejack/pull/29) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-2. 💪 Opened PR [#29](https://github.com/ThomasIAm/personal-site-hydejack/pull/29) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-3. 🎉 Merged PR [#28](https://github.com/ThomasIAm/personal-site-hydejack/pull/28) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-4. 💪 Opened PR [#28](https://github.com/ThomasIAm/personal-site-hydejack/pull/28) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-5. ❌ Closed PR [#27](https://github.com/ThomasIAm/personal-site-hydejack/pull/27) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+1. ✔️ Closed issue [#9](https://github.com/ThomasIAm/benikincapabel.nl/issues/9) in [ThomasIAm/benikincapabel.nl](https://github.com/ThomasIAm/benikincapabel.nl)
+2. 🎉 Merged PR [#10](https://github.com/ThomasIAm/benikincapabel.nl/pull/10) in [ThomasIAm/benikincapabel.nl](https://github.com/ThomasIAm/benikincapabel.nl)
+3. 💪 Opened PR [#10](https://github.com/ThomasIAm/benikincapabel.nl/pull/10) in [ThomasIAm/benikincapabel.nl](https://github.com/ThomasIAm/benikincapabel.nl)
+4. 🎉 Merged PR [#29](https://github.com/ThomasIAm/personal-site-hydejack/pull/29) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+5. 💪 Opened PR [#29](https://github.com/ThomasIAm/personal-site-hydejack/pull/29) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 13th, 2021, 1:56:01 PM
+Last Updated: Saturday, November 13th, 2021, 2:21:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
