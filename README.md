@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#25](https://github.com/ThomasIAm/personal-site-hydejack/pull/25) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-2. 🎉 Merged PR [#7](https://github.com/ThomasIAm/WindeSearch/pull/7) in [ThomasIAm/WindeSearch](https://github.com/ThomasIAm/WindeSearch)
-3. ✔️ Closed issue [#6](https://github.com/ThomasIAm/WindeSearch/issues/6) in [ThomasIAm/WindeSearch](https://github.com/ThomasIAm/WindeSearch)
-4. 💪 Opened PR [#7](https://github.com/ThomasIAm/WindeSearch/pull/7) in [ThomasIAm/WindeSearch](https://github.com/ThomasIAm/WindeSearch)
-5. ✔️ Closed issue [#9](https://github.com/ThomasIAm/benikincapabel.nl/issues/9) in [ThomasIAm/benikincapabel.nl](https://github.com/ThomasIAm/benikincapabel.nl)
+1. 🎉 Merged PR [#30](https://github.com/ThomasIAm/personal-site-hydejack/pull/30) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+2. 💪 Opened PR [#30](https://github.com/ThomasIAm/personal-site-hydejack/pull/30) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+3. 🎉 Merged PR [#25](https://github.com/ThomasIAm/personal-site-hydejack/pull/25) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+4. 🎉 Merged PR [#7](https://github.com/ThomasIAm/WindeSearch/pull/7) in [ThomasIAm/WindeSearch](https://github.com/ThomasIAm/WindeSearch)
+5. ✔️ Closed issue [#6](https://github.com/ThomasIAm/WindeSearch/issues/6) in [ThomasIAm/WindeSearch](https://github.com/ThomasIAm/WindeSearch)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 14th, 2021, 1:56:02 PM
+Last Updated: Sunday, November 14th, 2021, 2:21:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
