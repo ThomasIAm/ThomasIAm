@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [ThomasIAm/destreamer](https://github.com/ThomasIAm/destreamer) from [snobu/destreamer](https://github.com/snobu/destreamer)
-2. 🎉 Merged PR [#30](https://github.com/ThomasIAm/personal-site-hydejack/pull/30) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-3. 💪 Opened PR [#30](https://github.com/ThomasIAm/personal-site-hydejack/pull/30) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-4. 🎉 Merged PR [#25](https://github.com/ThomasIAm/personal-site-hydejack/pull/25) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-5. 🎉 Merged PR [#7](https://github.com/ThomasIAm/WindeSearch/pull/7) in [ThomasIAm/WindeSearch](https://github.com/ThomasIAm/WindeSearch)
+1. ❗️ Opened issue [#1](https://github.com/Mathijsvdn/Racetastic/issues/1) in [Mathijsvdn/Racetastic](https://github.com/Mathijsvdn/Racetastic)
+2. 🔱 Forked [ThomasIAm/destreamer](https://github.com/ThomasIAm/destreamer) from [snobu/destreamer](https://github.com/snobu/destreamer)
+3. 🎉 Merged PR [#30](https://github.com/ThomasIAm/personal-site-hydejack/pull/30) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+4. 💪 Opened PR [#30](https://github.com/ThomasIAm/personal-site-hydejack/pull/30) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+5. 🎉 Merged PR [#25](https://github.com/ThomasIAm/personal-site-hydejack/pull/25) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 17th, 2021, 10:13:43 PM
+Last Updated: Wednesday, November 17th, 2021, 10:37:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
