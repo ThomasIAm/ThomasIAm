@@ -7,11 +7,11 @@
 
 ## I'm a Son, Brother, and Student!
 
-- 🔭 I'm currently an intern at [SALT Cyber Security](salt) researching practical applications for [Fully Homomorphic Encryption](fhewiki)
+- 🔭 I'm currently co-running my own IT consultancy company called [Young Mountaineers][young-mountaineers] for a school project
 - 🌱 I'm currently learning how to be a successfull IT-pro at [Windesheim University][windesheim]
-- 💼 I'm looking for a challenge in infrastructure or security during my study (after I finish my internship 😉)
+- 💼 I'm looking for my first full-time job in infrastructure or security after I graduate
 - 🥅 2021 Goals: remain mentally healthy and *carpe diem*
-- ⚡ Fun fact: I won a bike once (don't look up any pictures of me receiving it)
+- ⚡ Fun fact: I won a bicycle once
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-profile.thomasiam.vercel.app/now-playing" width="256" height="64" alt="Now Playing">](https://now-playing-profile.thomasiam.vercel.app/now-playing?open)
@@ -95,10 +95,7 @@ Last Updated: Sunday, November 21st, 2021, 8:12:46 PM
 </details>
 
 
-[salt]: https://salt-security.com
-[fhewiki]: https://en.wikipedia.org/wiki/Homomorphic_encryption
-[windesheimdiscordbot]: https://github.com/Wendelstein7/WindesheimDiscordBot
-[windesheimdiscordapi]: https://github.com/ThomasIAm/WindesheimDiscordAPI
+[young-mountaineers]: https://young-mountaineers.ga
 [windesheim]: https://www.windesheim.nl/opleidingen/deeltijd/bachelor/hbo-ict
 [website]: https://tvdn.me
 [twitter]: https://twitter.com/thomasikdus
