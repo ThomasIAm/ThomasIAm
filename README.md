@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#111](https://github.com/ThomasIAm/upptime/issues/111) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-2. ❗️ Opened issue [#1](https://github.com/Mathijsvdn/Racetastic/issues/1) in [Mathijsvdn/Racetastic](https://github.com/Mathijsvdn/Racetastic)
-3. 🔱 Forked [ThomasIAm/destreamer](https://github.com/ThomasIAm/destreamer) from [snobu/destreamer](https://github.com/snobu/destreamer)
-4. 🎉 Merged PR [#30](https://github.com/ThomasIAm/personal-site-hydejack/pull/30) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-5. 💪 Opened PR [#30](https://github.com/ThomasIAm/personal-site-hydejack/pull/30) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+1. 🎉 Merged PR [#32](https://github.com/ThomasIAm/personal-site-hydejack/pull/32) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+2. 🎉 Merged PR [#31](https://github.com/ThomasIAm/personal-site-hydejack/pull/31) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+3. ✔️ Closed issue [#111](https://github.com/ThomasIAm/upptime/issues/111) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+4. ❗️ Opened issue [#1](https://github.com/Mathijsvdn/Racetastic/issues/1) in [Mathijsvdn/Racetastic](https://github.com/Mathijsvdn/Racetastic)
+5. 🔱 Forked [ThomasIAm/destreamer](https://github.com/ThomasIAm/destreamer) from [snobu/destreamer](https://github.com/snobu/destreamer)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 21st, 2021, 8:36:28 PM
+Last Updated: Sunday, November 21st, 2021, 9:16:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
