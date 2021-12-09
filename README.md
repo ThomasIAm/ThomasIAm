@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [ThomasIAm/wwi-webshop](https://github.com/ThomasIAm/wwi-webshop)
-2. 🎉 Merged PR [#32](https://github.com/ThomasIAm/personal-site-hydejack/pull/32) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-3. 🎉 Merged PR [#31](https://github.com/ThomasIAm/personal-site-hydejack/pull/31) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+1. ❗️ Opened issue [#115](https://github.com/ThomasIAm/upptime/issues/115) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+2. 📔 Created new repository [ThomasIAm/wwi-webshop](https://github.com/ThomasIAm/wwi-webshop)
+3. 🎉 Merged PR [#32](https://github.com/ThomasIAm/personal-site-hydejack/pull/32) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
 4. ✔️ Closed issue [#111](https://github.com/ThomasIAm/upptime/issues/111) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
 5. ❗️ Opened issue [#1](https://github.com/Mathijsvdn/Racetastic/issues/1) in [Mathijsvdn/Racetastic](https://github.com/Mathijsvdn/Racetastic)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 9th, 2021, 1:56:20 AM
+Last Updated: Thursday, December 9th, 2021, 3:03:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
