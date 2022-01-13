@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#118](https://github.com/ThomasIAm/upptime/issues/118) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-2. ✔️ Closed issue [#117](https://github.com/ThomasIAm/upptime/issues/117) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-3. ❗️ Opened issue [#117](https://github.com/ThomasIAm/upptime/issues/117) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-4. ✔️ Closed issue [#116](https://github.com/ThomasIAm/upptime/issues/116) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-5. ❗️ Opened issue [#116](https://github.com/ThomasIAm/upptime/issues/116) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+1. ✔️ Closed issue [#118](https://github.com/ThomasIAm/upptime/issues/118) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+2. ❗️ Opened issue [#118](https://github.com/ThomasIAm/upptime/issues/118) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+3. ✔️ Closed issue [#117](https://github.com/ThomasIAm/upptime/issues/117) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+4. ❗️ Opened issue [#117](https://github.com/ThomasIAm/upptime/issues/117) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+5. ✔️ Closed issue [#116](https://github.com/ThomasIAm/upptime/issues/116) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 13th, 2022, 5:28:19 PM
+Last Updated: Thursday, January 13th, 2022, 6:06:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
