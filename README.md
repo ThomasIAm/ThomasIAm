@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#118](https://github.com/ThomasIAm/upptime/issues/118) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-2. ❗️ Opened issue [#118](https://github.com/ThomasIAm/upptime/issues/118) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-3. ✔️ Closed issue [#117](https://github.com/ThomasIAm/upptime/issues/117) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-4. ❗️ Opened issue [#117](https://github.com/ThomasIAm/upptime/issues/117) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-5. ✔️ Closed issue [#116](https://github.com/ThomasIAm/upptime/issues/116) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+1. 🔱 Forked [ThomasIAm/Racetastic](https://github.com/ThomasIAm/Racetastic) from [Mathijsvdn/Racetastic](https://github.com/Mathijsvdn/Racetastic)
+2. ⭐ Starred [Mathijsvdn/Racetastic](https://github.com/Mathijsvdn/Racetastic)
+3. ✔️ Closed issue [#118](https://github.com/ThomasIAm/upptime/issues/118) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+4. ❗️ Opened issue [#118](https://github.com/ThomasIAm/upptime/issues/118) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+5. ✔️ Closed issue [#117](https://github.com/ThomasIAm/upptime/issues/117) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 21st, 2022, 10:11:22 PM
+Last Updated: Friday, January 21st, 2022, 10:36:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
