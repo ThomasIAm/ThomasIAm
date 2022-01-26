@@ -7,11 +7,11 @@
 
 ## I'm a Son, Brother, and Student!
 
-- 🔭 I'm currently co-running my own IT consultancy company called [Young Mountaineers][young-mountaineers] for a school project
-- 🌱 I'm currently learning how to be a successfull IT-pro at [Windesheim University][windesheim]
-- 💼 I'm looking for my first full-time job in infrastructure or security after I graduate
-- 🥅 2021 Goals: remain mentally healthy and *carpe diem*
-- ⚡ Fun fact: I won a bicycle once
+- 🔭 I'm currently doing an internship at [Intermax][intermax] building out their managed services in Azure. They're the most secure managed services provider in The Netherlands 😎.
+- 🌱 I'm currently learning how to be a successfull IT-pro at [Windesheim University][windesheim]. My journey here is almost over though, because I will be graduating this summer.
+- 💼 I'm looking for my first full-time job in infrastructure or security after I graduate.
+- 🥅 2022 Motto: let's get that bread!
+- ⚡ Fun fact: I won a bicycle once.
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-profile.thomasiam.vercel.app/now-playing" width="256" height="64" alt="Now Playing">](https://now-playing-profile.thomasiam.vercel.app/now-playing?open)
@@ -95,11 +95,11 @@ Last Updated: Wednesday, January 26th, 2022, 1:54:31 PM
 </details>
 
 
-[young-mountaineers]: https://young-mountaineers.ga
+[intermax]: https://intermax.nl
 [windesheim]: https://www.windesheim.nl/opleidingen/deeltijd/bachelor/hbo-ict
 [website]: https://tvdn.me
 [twitter]: https://twitter.com/thomasikdus
-[linkedin]: https://www.linkedin.com/in/thomasvandennieuwenhoff/?locale=en_US
+[linkedin]: https://www.linkedin.com/in/tvdn
 [instagram]: https://www.instagram.com/thomasikdus/
 [skype]: https://join.skype.com/invite/jcPGORJJ3Vq4
 [steam]: https://steamcommunity.com/id/thomasiam/
