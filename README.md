@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#39](https://github.com/ThomasIAm/personal-site-hydejack/pull/39) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-2. 💪 Opened PR [#39](https://github.com/ThomasIAm/personal-site-hydejack/pull/39) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-3. 🎉 Merged PR [#38](https://github.com/ThomasIAm/personal-site-hydejack/pull/38) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-4. 🎉 Merged PR [#35](https://github.com/ThomasIAm/personal-site-hydejack/pull/35) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-5. 🎉 Merged PR [#37](https://github.com/ThomasIAm/personal-site-hydejack/pull/37) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+1. 🎉 Merged PR [#40](https://github.com/ThomasIAm/personal-site-hydejack/pull/40) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+2. 💪 Opened PR [#40](https://github.com/ThomasIAm/personal-site-hydejack/pull/40) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+3. 🎉 Merged PR [#39](https://github.com/ThomasIAm/personal-site-hydejack/pull/39) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+4. 💪 Opened PR [#39](https://github.com/ThomasIAm/personal-site-hydejack/pull/39) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+5. 🎉 Merged PR [#38](https://github.com/ThomasIAm/personal-site-hydejack/pull/38) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 28th, 2022, 10:36:16 PM
+Last Updated: Friday, January 28th, 2022, 11:15:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
