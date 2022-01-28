@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#36](https://github.com/ThomasIAm/personal-site-hydejack/pull/36) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-2. ❌ Closed PR [#36](https://github.com/ThomasIAm/personal-site-hydejack/pull/36) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-3. 💪 Opened PR [#35](https://github.com/ThomasIAm/personal-site-hydejack/pull/35) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-4. ❌ Closed PR [#33](https://github.com/ThomasIAm/personal-site-hydejack/pull/33) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-5. 🎉 Merged PR [#34](https://github.com/ThomasIAm/personal-site-hydejack/pull/34) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+1. 🎉 Merged PR [#38](https://github.com/ThomasIAm/personal-site-hydejack/pull/38) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+2. 🎉 Merged PR [#35](https://github.com/ThomasIAm/personal-site-hydejack/pull/35) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+3. 🎉 Merged PR [#37](https://github.com/ThomasIAm/personal-site-hydejack/pull/37) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+4. 💪 Opened PR [#38](https://github.com/ThomasIAm/personal-site-hydejack/pull/38) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+5. 🎉 Merged PR [#4](https://github.com/ThomasIAm/now-playing-profile/pull/4) in [ThomasIAm/now-playing-profile](https://github.com/ThomasIAm/now-playing-profile)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 28th, 2022, 5:55:25 PM
+Last Updated: Friday, January 28th, 2022, 6:18:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
