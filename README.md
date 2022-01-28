@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#33](https://github.com/ThomasIAm/personal-site-hydejack/pull/33) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-2. 🎉 Merged PR [#34](https://github.com/ThomasIAm/personal-site-hydejack/pull/34) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-3. ✔️ Closed issue [#121](https://github.com/ThomasIAm/upptime/issues/121) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-4. ❗️ Opened issue [#121](https://github.com/ThomasIAm/upptime/issues/121) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-5. ✔️ Closed issue [#120](https://github.com/ThomasIAm/upptime/issues/120) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+1. ❌ Closed PR [#36](https://github.com/ThomasIAm/personal-site-hydejack/pull/36) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+2. ❌ Closed PR [#36](https://github.com/ThomasIAm/personal-site-hydejack/pull/36) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+3. 💪 Opened PR [#35](https://github.com/ThomasIAm/personal-site-hydejack/pull/35) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+4. ❌ Closed PR [#33](https://github.com/ThomasIAm/personal-site-hydejack/pull/33) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+5. 🎉 Merged PR [#34](https://github.com/ThomasIAm/personal-site-hydejack/pull/34) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 28th, 2022, 5:26:04 PM
+Last Updated: Friday, January 28th, 2022, 5:55:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
