@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5](https://github.com/ThomasIAm/now-playing-profile/pull/5) in [ThomasIAm/now-playing-profile](https://github.com/ThomasIAm/now-playing-profile)
-2. 🎉 Merged PR [#40](https://github.com/ThomasIAm/personal-site-hydejack/pull/40) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-3. 💪 Opened PR [#40](https://github.com/ThomasIAm/personal-site-hydejack/pull/40) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-4. 🎉 Merged PR [#39](https://github.com/ThomasIAm/personal-site-hydejack/pull/39) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-5. 💪 Opened PR [#39](https://github.com/ThomasIAm/personal-site-hydejack/pull/39) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+1. 🔱 Forked [ThomasIAm/twofactorauth](https://github.com/ThomasIAm/twofactorauth) from [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth)
+2. 💪 Opened PR [#5](https://github.com/ThomasIAm/now-playing-profile/pull/5) in [ThomasIAm/now-playing-profile](https://github.com/ThomasIAm/now-playing-profile)
+3. 🎉 Merged PR [#40](https://github.com/ThomasIAm/personal-site-hydejack/pull/40) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+4. 💪 Opened PR [#40](https://github.com/ThomasIAm/personal-site-hydejack/pull/40) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+5. 🎉 Merged PR [#39](https://github.com/ThomasIAm/personal-site-hydejack/pull/39) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 4th, 2022, 10:36:08 PM
+Last Updated: Friday, February 4th, 2022, 11:12:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
