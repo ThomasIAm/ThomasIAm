@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#122](https://github.com/ThomasIAm/upptime/issues/122) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-2. 💪 Opened PR [#6470](https://github.com/2factorauth/twofactorauth/pull/6470) in [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth)
-3. 🔱 Forked [ThomasIAm/twofactorauth](https://github.com/ThomasIAm/twofactorauth) from [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth)
-4. 💪 Opened PR [#5](https://github.com/ThomasIAm/now-playing-profile/pull/5) in [ThomasIAm/now-playing-profile](https://github.com/ThomasIAm/now-playing-profile)
-5. 🎉 Merged PR [#40](https://github.com/ThomasIAm/personal-site-hydejack/pull/40) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+1. ✔️ Closed issue [#122](https://github.com/ThomasIAm/upptime/issues/122) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+2. ❗️ Opened issue [#122](https://github.com/ThomasIAm/upptime/issues/122) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+3. 💪 Opened PR [#6470](https://github.com/2factorauth/twofactorauth/pull/6470) in [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth)
+4. 🔱 Forked [ThomasIAm/twofactorauth](https://github.com/ThomasIAm/twofactorauth) from [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth)
+5. 💪 Opened PR [#5](https://github.com/ThomasIAm/now-playing-profile/pull/5) in [ThomasIAm/now-playing-profile](https://github.com/ThomasIAm/now-playing-profile)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 14th, 2022, 2:57:58 AM
+Last Updated: Monday, February 14th, 2022, 3:30:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
