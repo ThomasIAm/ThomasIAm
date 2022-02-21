@@ -74,15 +74,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#6](https://github.com/ThomasIAm/now-playing-profile/pull/6) in [ThomasIAm/now-playing-profile](https://github.com/ThomasIAm/now-playing-profile)
-2. 🎉 Merged PR [#5](https://github.com/ThomasIAm/now-playing-profile/pull/5) in [ThomasIAm/now-playing-profile](https://github.com/ThomasIAm/now-playing-profile)
-3. 🎉 Merged PR [#41](https://github.com/ThomasIAm/personal-site-hydejack/pull/41) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-4. ✔️ Closed issue [#122](https://github.com/ThomasIAm/upptime/issues/122) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-5. ❗️ Opened issue [#122](https://github.com/ThomasIAm/upptime/issues/122) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+1. ✔️ Closed issue [#123](https://github.com/ThomasIAm/upptime/issues/123) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+2. ❗️ Opened issue [#123](https://github.com/ThomasIAm/upptime/issues/123) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+3. 🎉 Merged PR [#6](https://github.com/ThomasIAm/now-playing-profile/pull/6) in [ThomasIAm/now-playing-profile](https://github.com/ThomasIAm/now-playing-profile)
+4. 🎉 Merged PR [#5](https://github.com/ThomasIAm/now-playing-profile/pull/5) in [ThomasIAm/now-playing-profile](https://github.com/ThomasIAm/now-playing-profile)
+5. 🎉 Merged PR [#41](https://github.com/ThomasIAm/personal-site-hydejack/pull/41) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 21st, 2022, 7:42:26 PM
+Last Updated: Monday, February 21st, 2022, 8:12:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
