@@ -78,11 +78,10 @@
 2. ✔️ Closed issue [#126](https://github.com/ThomasIAm/upptime/issues/126) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
 3. ❗️ Opened issue [#126](https://github.com/ThomasIAm/upptime/issues/126) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
 4. ✔️ Closed issue [#125](https://github.com/ThomasIAm/upptime/issues/125) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-5. ❗️ Opened issue [#125](https://github.com/ThomasIAm/upptime/issues/125) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 5th, 2022, 12:39:53 AM
+Last Updated: Tuesday, April 5th, 2022, 2:16:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
