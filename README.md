@@ -74,12 +74,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#44](https://github.com/ThomasIAm/personal-site-hydejack/pull/44) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-2. ❗️ Opened issue [#129](https://github.com/ThomasIAm/upptime/issues/129) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+1. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+2. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+3. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+4. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+5. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 7th, 2022, 4:18:48 PM
+Last Updated: Tuesday, June 7th, 2022, 4:43:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
