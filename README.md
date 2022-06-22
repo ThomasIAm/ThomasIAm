@@ -74,15 +74,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 8 commit(s) to [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-2. 🎉 Merged PR [#46](https://github.com/ThomasIAm/personal-site-hydejack/pull/46) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-3. ⬆️ Pushed 1 commit(s) to [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-4. ⬆️ Pushed 1 commit(s) to [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-5. 💪 Opened PR [#46](https://github.com/ThomasIAm/personal-site-hydejack/pull/46) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+1. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+2. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+3. ⬆️ Pushed 8 commit(s) to [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+4. 🎉 Merged PR [#46](https://github.com/ThomasIAm/personal-site-hydejack/pull/46) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+5. ⬆️ Pushed 1 commit(s) to [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 22nd, 2022, 12:40:34 AM
+Last Updated: Wednesday, June 22nd, 2022, 2:53:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
