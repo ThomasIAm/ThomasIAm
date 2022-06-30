@@ -76,13 +76,13 @@
   <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
 2. ⬆️ Pushed 4 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-3. ❗️ Opened issue [#143](https://github.com/ThomasIAm/upptime/issues/143) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-4. ❗️ Opened issue [#142](https://github.com/ThomasIAm/upptime/issues/142) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-5. ❗️ Opened issue [#141](https://github.com/ThomasIAm/upptime/issues/141) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+3. ✔️ Closed issue [#143](https://github.com/ThomasIAm/upptime/issues/143) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+4. ✔️ Closed issue [#142](https://github.com/ThomasIAm/upptime/issues/142) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+5. ✔️ Closed issue [#141](https://github.com/ThomasIAm/upptime/issues/141) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 30th, 2022, 8:14:57 AM
+Last Updated: Thursday, June 30th, 2022, 8:37:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
