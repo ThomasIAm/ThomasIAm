@@ -71,15 +71,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#174](https://github.com/ThomasIAm/upptime/issues/174) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-2. ⬆️ Pushed 1 commit(s) to [ThomasIAm/tvdn-og-image](https://github.com/ThomasIAm/tvdn-og-image)
-3. ⬆️ Pushed 2 commit(s) to [ThomasIAm/tvdn-og-image](https://github.com/ThomasIAm/tvdn-og-image)
-4. 🎉 Merged PR [#4](https://github.com/ThomasIAm/tvdn-og-image/pull/4) in [ThomasIAm/tvdn-og-image](https://github.com/ThomasIAm/tvdn-og-image)
-5. ⬆️ Pushed 2 commit(s) to [ThomasIAm/tvdn-og-image](https://github.com/ThomasIAm/tvdn-og-image)
+1. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+2. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+3. ✔️ Closed issue [#174](https://github.com/ThomasIAm/upptime/issues/174) in [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+4. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+5. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 20th, 2022, 10:16:32 PM
+Last Updated: Saturday, August 20th, 2022, 10:43:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
