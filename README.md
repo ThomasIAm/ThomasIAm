@@ -3,28 +3,20 @@
 [![Personal Website](https://img.shields.io/website?label=tvdn.me&style=for-the-badge&url=https%3A%2F%2Ftvdn.me)](https://tvdn.me)
 [![Personal Website Netlify Status](https://api.netlify.com/api/v1/badges/6f24e10c-e713-44fc-b3e8-cd15750aec9f/deploy-status)](https://app.netlify.com/sites/tvdn/deploys)
 
-[![Wiki](https://img.shields.io/website?label=wiki.tvdn.me&style=for-the-badge&url=https%3A%2F%2Fwiki.tvdn.me)](https://wiki.tvdn.me)
+## I'm a Son, Brother, and Young Professional!
 
-## I'm a Son, Brother, and Student!
-
-- 🔭 I'm currently doing an internship at [Intermax][intermax] building out their managed services in Azure. They're the most secure managed services provider in The Netherlands 😎.
-- 🌱 I'm currently learning how to be a successfull IT-pro at [Windesheim University][windesheim]. My journey here is almost over though, because I will be graduating this summer.
-- 💼 I'm looking for my first full-time job in infrastructure or security after I graduate.
+- 🔭 I'm currently a Cyber Security Consultant at [SALT Cyber Security][salt] helping our customers level-up their security posture. We're pretty small still, so I'm enjoying the freedom we have, and our challenges in building a successful business 🏋.
+- 🌱 I'm currently learning to effectively use the CyberArk suite and related identity security products, as well as expanding my knowledge about containerization with OpenShift.
+- 💼 I'm looking for businesses that need experts in cyber security or want to know why it's important.
 - 🥅 2022 Motto: let's get that bread!
-- ⚡ Fun fact: I won a bicycle once.
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-profile.thomasiam.vercel.app/now-playing-white" width="256" height="64" alt="Now Playing">](https://now-playing-profile.thomasiam.vercel.app/now-playing?open#gh-dark-mode-only)
-[<img src="https://now-playing-profile.thomasiam.vercel.app/now-playing" width="256" height="64" alt="Now Playing">](https://now-playing-profile.thomasiam.vercel.app/now-playing?open#gh-light-mode-only)
+- ⚡ Fun fact: I won a bicycle once 🚲.
 
 ### Connect with me:
 
 [<img align="left" alt="TvdN.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Thomas van den Nieuwenhoff | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Thomas van den Nieuwenhoff | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Thomas van den Nieuwenhoff | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Thomas van den Nieuwenhoff | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/skype.svg" />][skype]
-[<img align="left" alt="Thomas van den Nieuwenhoff | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/steam.svg" />][steam]
+[<img align="left" alt="Thomas van den Nieuwenhoff | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 <br />
 
@@ -33,6 +25,8 @@
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angular]
 [<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />][ansible]
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][aws]
+[<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" />][azure]
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][bash]
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
 [<img align="left" alt="Chrome Extension" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png" />][chromeextension]
@@ -57,6 +51,8 @@
 [<img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />][rpi]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="Telegram" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
+[<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />][terraform]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][ts]
 [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
@@ -64,6 +60,7 @@
 [<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][vim]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />][windows]
+[<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/wordpress/wordpress.png" />][wordpress]
 
 <br />
 <br />
@@ -82,7 +79,7 @@
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 20th, 2022, 9:18:34 PM
+Last Updated: Saturday, August 20th, 2022, 8:36:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
@@ -96,14 +93,11 @@ Last Updated: Saturday, August 20th, 2022, 9:18:34 PM
 </details>
 
 
-[intermax]: https://intermax.nl
-[windesheim]: https://www.windesheim.nl/opleidingen/deeltijd/bachelor/hbo-ict
+[salt]: https://salt-security.com
 [website]: https://tvdn.me
-[twitter]: https://twitter.com/thomasikdus
 [linkedin]: https://www.linkedin.com/in/tvdn
 [instagram]: https://www.instagram.com/thomasikdus/
-[skype]: https://join.skype.com/invite/jcPGORJJ3Vq4
-[steam]: https://steamcommunity.com/id/thomasiam/
+[whatsapp]: https://wa.me/message/XLBMO7NODAYRP1
 [vscode]: https://code.visualstudio.com/
 [html5]: https://www.w3.org/html/
 [css3]: https://www.w3.org/Style/CSS/Overview.en.html
@@ -138,3 +132,8 @@ Last Updated: Saturday, August 20th, 2022, 9:18:34 PM
 [windows]: https://www.microsoft.com/en-us/windows
 [terminal]: https://github.com/topics/terminal
 [chromeextension]: https://developer.chrome.com/docs/extensions/
+[aws]: https://aws.amazon.com
+[azure]: https://azure.microsoft.com
+[telegram]: https://telegram.org
+[terraform]: https://terraform.io
+[wordpress]: https://wordpress.com
