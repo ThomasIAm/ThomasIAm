@@ -71,15 +71,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-2. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-3. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-4. ⬆️ Pushed 2 commit(s) to [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
-5. 🎉 Merged PR [#51](https://github.com/ThomasIAm/personal-site-hydejack/pull/51) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
+1. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+2. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+3. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+4. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+5. ⬆️ Pushed 2 commit(s) to [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 22nd, 2022, 11:47:22 PM
+Last Updated: Sunday, October 23rd, 2022, 12:25:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
