@@ -71,15 +71,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
-2. 💪 Opened PR [#2093](https://github.com/cloudflare/terraform-provider-cloudflare/pull/2093) in [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare)
-3. ⬆️ Pushed 1 commit(s) to [ThomasIAm/terraform-provider-cloudflare](https://github.com/ThomasIAm/terraform-provider-cloudflare)
-4. 🔱 Forked [ThomasIAm/terraform-provider-cloudflare](https://github.com/ThomasIAm/terraform-provider-cloudflare) from [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare)
-5. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+1. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+2. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+3. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)
+4. 💪 Opened PR [#2093](https://github.com/cloudflare/terraform-provider-cloudflare/pull/2093) in [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare)
+5. ⬆️ Pushed 1 commit(s) to [ThomasIAm/terraform-provider-cloudflare](https://github.com/ThomasIAm/terraform-provider-cloudflare)
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 17th, 2022, 12:36:34 AM
+Last Updated: Saturday, December 17th, 2022, 2:12:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
