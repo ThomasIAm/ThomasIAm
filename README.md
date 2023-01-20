@@ -6,9 +6,9 @@
 ## I'm a Son, Brother, and Young Professional!
 
 - 🔭 I'm currently a Cyber Security Consultant at [SALT Cyber Security][salt] helping our customers level-up their security posture. We're pretty small still, so I'm enjoying the freedom we have, and our challenges in building a successful business 🏋.
-- 🌱 I'm currently learning to effectively use the CyberArk suite and related identity security products, as well as expanding my knowledge about containerization with OpenShift.
+- 🌱 I'm currently learning to effectively use the Cloudflare suite and related identity security products, as well as expanding my knowledge about containerization with OpenShift.
 - 💼 I'm looking for businesses that need experts in cyber security or want to know why it's important.
-- 🥅 2022 Motto: let's get that bread!
+- 🥅 2023 Motto: celebrate life!
 - ⚡ Fun fact: I won a bicycle once 🚲.
 
 ### Connect with me:
