@@ -71,15 +71,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-2. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-3. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-4. 📔 Created new repository [ThomasIAm/Young-Mountaineers](https://github.com/ThomasIAm/Young-Mountaineers)<br>
-5. ⬆️ Pushed 1 commit(s) to [ThomasIAm/ThomasIAm](https://github.com/ThomasIAm/ThomasIAm)<br>
+1. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
+2. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
+3. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
+4. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
+5. 📔 Created new repository [ThomasIAm/Young-Mountaineers](https://github.com/ThomasIAm/Young-Mountaineers)<br>
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 21st, 2023, 11:36:05 PM
+Last Updated: Sunday, January 22nd, 2023, 12:14:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
