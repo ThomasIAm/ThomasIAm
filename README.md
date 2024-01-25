@@ -74,12 +74,12 @@
 1. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
 2. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
 3. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-4. ⬆️ Pushed 5 commit(s) to [ThomasIAm/milo.how](https://github.com/ThomasIAm/milo.how)<br>
-5. 🎉 Merged PR [#3](https://github.com/ThomasIAm/milo.how/pull/3) in [ThomasIAm/milo.how](https://github.com/ThomasIAm/milo.how)<br>
+4. ⬆️ Pushed 1 commit(s) to [ThomasIAm/milo.how](https://github.com/ThomasIAm/milo.how)<br>
+5. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 24th, 2024, 2:10:55 AM
+Last Updated: Thursday, January 25th, 2024, 2:11:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
