@@ -74,12 +74,12 @@
 1. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
 2. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
 3. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-4. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-5. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
+4. ⬆️ Pushed 2 commit(s) to [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)<br>
+5. 🎉 Merged PR [#76](https://github.com/ThomasIAm/personal-site-hydejack/pull/76) in [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)<br>
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 29th, 2024, 2:19:38 AM
+Last Updated: Friday, August 30th, 2024, 2:19:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
