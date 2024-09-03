@@ -74,12 +74,12 @@
 1. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
 2. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
 3. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-4. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-5. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
+4. ⬆️ Pushed 1 commit(s) to [ThomasIAm/open-in-vscode](https://github.com/ThomasIAm/open-in-vscode)<br>
+5. ⬆️ Pushed 1 commit(s) to [ThomasIAm/open-in-vscode](https://github.com/ThomasIAm/open-in-vscode)<br>
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 2nd, 2024, 2:21:22 AM
+Last Updated: Tuesday, September 3rd, 2024, 2:19:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
