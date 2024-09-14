@@ -74,12 +74,12 @@
 1. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
 2. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
 3. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-4. ⬆️ Pushed 1 commit(s) to [ThomasIAm/Swoodroom](https://github.com/ThomasIAm/Swoodroom)<br>
-5. ⬆️ Pushed 1 commit(s) to [ThomasIAm/Swoodroom](https://github.com/ThomasIAm/Swoodroom)<br>
+4. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
+5. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 13th, 2024, 2:21:18 AM
+Last Updated: Saturday, September 14th, 2024, 2:20:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
