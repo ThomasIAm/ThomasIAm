@@ -71,15 +71,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-2. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-3. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
+1. ⬆️ Pushed 1 commit(s) to [ThomasIAm/Swoodroom](https://github.com/ThomasIAm/Swoodroom)<br>
+2. ❗️ Opened issue [#9](https://github.com/ThomasIAm/Swoodroom/issues/9) in [ThomasIAm/Swoodroom](https://github.com/ThomasIAm/Swoodroom)<br>
+3. 💪 Opened PR [#8](https://github.com/ThomasIAm/Swoodroom/pull/8) in [ThomasIAm/Swoodroom](https://github.com/ThomasIAm/Swoodroom)<br>
 4. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
 5. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 1st, 2024, 2:39:57 AM
+Last Updated: Wednesday, October 2nd, 2024, 2:24:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
