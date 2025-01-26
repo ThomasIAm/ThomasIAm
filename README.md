@@ -71,15 +71,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-2. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-3. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-4. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-5. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
+1. ⬆️ Pushed 1 commit(s) to [ThomasIAm/runtipi-appstore](https://github.com/ThomasIAm/runtipi-appstore)<br>
+2. ⬆️ Pushed 1 commit(s) to [ThomasIAm/runtipi-appstore](https://github.com/ThomasIAm/runtipi-appstore)<br>
+3. ⬆️ Pushed 1 commit(s) to [ThomasIAm/runtipi-appstore](https://github.com/ThomasIAm/runtipi-appstore)<br>
+4. ⬆️ Pushed 1 commit(s) to [ThomasIAm/runtipi-appstore](https://github.com/ThomasIAm/runtipi-appstore)<br>
+5. ⬆️ Pushed 1 commit(s) to [ThomasIAm/runtipi-appstore](https://github.com/ThomasIAm/runtipi-appstore)<br>
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 25th, 2025, 2:19:20 AM
+Last Updated: Sunday, January 26th, 2025, 2:25:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
