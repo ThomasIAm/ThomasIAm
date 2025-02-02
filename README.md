@@ -71,15 +71,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-2. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-3. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-4. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-5. 💪 Opened PR [#31](https://github.com/RedHat-Middleware-Workshops/cloud-native-workshop-v2m3-guides/pull/31) in [RedHat-Middleware-Workshops/cloud-native-workshop-v2m3-guides](https://github.com/RedHat-Middleware-Workshops/cloud-native-workshop-v2m3-guides)<br>
+1. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
+2. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
+3. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
+4. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
+5. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 1st, 2025, 2:34:54 AM
+Last Updated: Sunday, February 2nd, 2025, 2:27:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
