@@ -74,12 +74,12 @@
 1. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
 2. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
 3. ⬆️ Pushed 6 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-4. ⬆️ Pushed 1 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
-5. ⬆️ Pushed 2 commit(s) to [ThomasIAm/upptime](https://github.com/ThomasIAm/upptime)<br>
+4. ⬆️ Pushed 1 commit(s) to [ThomasIAm/runtipi-appstore](https://github.com/ThomasIAm/runtipi-appstore)<br>
+5. ⬆️ Pushed 1 commit(s) to [ThomasIAm/runtipi-appstore](https://github.com/ThomasIAm/runtipi-appstore)<br>
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 5th, 2025, 2:38:00 AM
+Last Updated: Sunday, April 6th, 2025, 2:44:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
