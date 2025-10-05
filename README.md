@@ -79,14 +79,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)<br>
-2. ⬆️ Pushed 1 commit(s) to [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)<br>
-3. ⬆️ Pushed 1 commit(s) to [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)<br>
-4. ⬆️ Pushed 1 commit(s) to [ThomasIAm/personal-site-hydejack](https://github.com/ThomasIAm/personal-site-hydejack)<br>
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 4th, 2025, 2:26:12 AM
+Last Updated: Sunday, October 5th, 2025, 2:46:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
