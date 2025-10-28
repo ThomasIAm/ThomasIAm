@@ -79,12 +79,13 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Devolvio-B-V/cloudflare-api-schemas](https://github.com/Devolvio-B-V/cloudflare-api-schemas) from [Devolvio-B-V/cloudflare-api-schemas](https://github.com/Devolvio-B-V/cloudflare-api-schemas)<br>
-2. ⬆️ Pushed undefined commit(s) to [ThomasIAm/api-schemas](https://github.com/ThomasIAm/api-schemas)<br>
+1. ❌ Closed PR [#15](undefined) in [gophish/user-guide](https://github.com/gophish/user-guide)<br>
+2. 🔱 Forked [Devolvio-B-V/cloudflare-api-schemas](https://github.com/Devolvio-B-V/cloudflare-api-schemas) from [Devolvio-B-V/cloudflare-api-schemas](https://github.com/Devolvio-B-V/cloudflare-api-schemas)<br>
+3. ⬆️ Pushed undefined commit(s) to [ThomasIAm/api-schemas](https://github.com/ThomasIAm/api-schemas)<br>
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 27th, 2025, 2:51:42 AM
+Last Updated: Tuesday, October 28th, 2025, 2:41:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
