@@ -79,11 +79,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#15](undefined) in [gophish/user-guide](https://github.com/gophish/user-guide)<br>
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 26th, 2025, 2:47:27 AM
+Last Updated: Thursday, November 27th, 2025, 2:45:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
