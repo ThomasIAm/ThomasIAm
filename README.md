@@ -1,21 +1,16 @@
 ### Hi there, I'm Thomas 👋
 
-[![Personal Website](https://img.shields.io/website?label=tvdn.me&style=for-the-badge&url=https%3A%2F%2Ftvdn.me)](https://tvdn.me)
-[![Personal Website Netlify Status](https://api.netlify.com/api/v1/badges/6f24e10c-e713-44fc-b3e8-cd15750aec9f/deploy-status)](https://app.netlify.com/sites/tvdn/deploys)
-
 ## I'm a Son, Brother, and Young Professional!
 
-- 🔭 I'm currently a Cyber Security Consultant at [SALT Cyber Security][salt] helping our customers level-up their security posture. We're pretty small still, so I'm enjoying the freedom we have, and our challenges in building a successful business 🏋.
-- 🌱 I'm currently learning to effectively use the Cloudflare suite and related identity security products, as well as expanding my knowledge about containerization with OpenShift.
+- 🔭 I am a lead cyber security consultant at [SALT] with a passion for helping businesses thrive in the digital world. With my years of experience and a strong background in technology, I am dedicated to helping my team and clients achieve success in the ever-evolving landscape of cyber security.
+- 🌱 I'm currently learning to use AI tools as an effective assistant in my daily work. I also like to build apps/tools with it.
 - 💼 I'm looking for businesses that need experts in cyber security or want to know why it's important.
 - ⚡ Fun fact: I won a bicycle once 🚲.
 
 ### My qualifications:
-[<img alt="Cloudflare Accredited Services Architect (ASA)" width="100px" src="https://storage.googleapis.com/prod-cloudflare-secure/credential%2Fbbca2ac2-172e-41cf-b720-0a31a9e292a5?GoogleAccessId=133892163607-compute@developer.gserviceaccount.com&Expires=1749597950&Signature=G2kDE5nW7LD41ZC3YtJL5z%2Flx1%2BGmYfgnUvQPz0HaFO%2FWCKGea09fRQrPzh8UWZyT4dGtcV8ZrfeKEgmLIJeLG%2BIYv%2Byi8ZJbYgNH67OtKfAEInRoSp3tHi96t12Xnmc3ORWALyL7N3TYqbvJexODozb2T1JLHn7jqSJB4lwg8DO%2FoPuXC6Y2ff6IPjxHxhLV1ny1HqOQrmufea%2Bwx8W7C2CU3W3z7ttUv5hjjIWz%2BayrCWavC5GmYeh9agogSxfdY7Tb9n2mt20EpnONj%2FpWWfxVeXxEeQsNqDJycOJf%2BMEno6TdhDThfxU5GCrt5ki8WKg0S0enl5hicg%2BIZBEMA%3D%3D" />][asa]
-[<img alt="Cloudflare Accredited MSSP - Services Management (AMSP)" width="100px" src="https://storage.googleapis.com/prod-cloudflare-secure/credential%2F39235eb0-8e0d-46c0-8bdd-34d966eee25a?GoogleAccessId=133892163607-compute@developer.gserviceaccount.com&Expires=1749598159&Signature=X4edYk5Bsg0C8rWZc25wONYHi%2BSY%2B7%2BOVzY%2FLOgJ9%2BS5iN5Gi6xy64cPxDi%2BVhHMaraZPC7yaDoDspKuDWp%2BO4IuLz5JUvh2daDQIPeJvPJIx6kYOLoFGPrt26Rencnti1vvJDcNwVWYr7r8%2BgN2r7sFgX2WRdPpPlT%2Bx1oMrXUqoav7fhyFn0wZnEXN%2FEWZfKT%2F3hCx8UQaQEM1WVDKZrqGk89TsEetTS8OM48K5Y0jQGbptxAToYVx7ByUbDMZ4C4Wwmt6QECH05ekiP1%2F0528UzjRBtU98XaU%2BicqGsKqC6VoAksIvWgSndB9%2BWG4Bt%2FAl5Xm0Rsh695YOZyYHA%3D%3D" />][amsp]
-[<img alt="Cloudflare Accredited Sales Engineer (ASE)" width="100px" src="https://storage.googleapis.com/prod-cloudflare-secure/credential%2F71947f72-4c61-487b-b0db-7552fb124b745?GoogleAccessId=133892163607-compute@developer.gserviceaccount.com&Expires=1749598177&Signature=j%2BImAeCIi%2FyJtWuQJA1x1OtICsE2qw%2FEZEviN9f2uZ8KEPCefD8yhtTR7Ay3DYRCK6qMmtnreiYbzyuLnJkVWKMUGDpbZpe%2F1eOkWdg4RDsUpuP8oziOW7CQKn4TdZTGzRPjKIJuQ62HjBkyaMcU6DluffOlm1K971Z2XNMHv94R5gzlAgyajn5kgeL4Hx6tcFyKgDdaOaCQBM8oFhOMz%2B1MNv%2FcEX59El27ZvX%2F0ayQZusDsfjBapJz6AR44FsY9TbLVj8Kuv%2BSZGNi9ACPlw8PQ%2FHpCUIQRdIB%2FpLbEkMRzmkh3bddD3pQtxn%2B12cOL%2Ft6d2Z1kndHnu3URLWtAg%3D%3D" />][ase]
-[<img alt="Cloudflare Accredited Zero Trust Engineer (ZTE)" width="100px" src="https://storage.googleapis.com/prod-cloudflare-secure/credential%2Fc102d9bb-9f81-4284-984e-90a85c0027ab?GoogleAccessId=133892163607-compute@developer.gserviceaccount.com&Expires=1749598187&Signature=fKtw6qdjs3I3GcmRIFd%2F7XEllKCoiQySkSdO3hJnI%2BgX0k8G7j8B5lRMX%2BO2QpaaLzKtRi60kqE%2B7PYL2oLNicLbzu%2BJvP9TMYNbN0WjkVtzFNnmOxJ9cc%2FIPLjmWFZVgFsoeDWJG9MAemuiz87nAmJj5t3AOY9OQYNNP6x%2Bl%2BP7cOGwddfVUYjS1YX1w%2Fzn4DBe6Z4RLICkX7CpIt%2FP6qDc0h0oslWHGmwA0Ma2ZT7tlGu0DCIAovj%2Fk0Fm0MOGLUAjPOdt6fJ%2Feu15BMnW5qv2SNUnybdqOU8VPyoYUElWX1jptrOLFg7tCGweneU4%2BB817C1XU8InrwmkdiW41Q%3D%3D" />][zte]
-[<img alt="Cloudflare Accredited Configuration Engineer (ACE)" width="100px" src="https://storage.googleapis.com/prod-cloudflare-secure/credential%2F45c8cb7c-ba28-4335-afa6-9693783217a3?GoogleAccessId=133892163607-compute@developer.gserviceaccount.com&Expires=1749598198&Signature=TEs0Iz%2F3HkZuqNChYjKJ%2FuJMC7vZ9M%2FbYh5uGSKxsw40YzngVWN3Ik77bMyqNI1C1M0CHL1lyibExMQTkS%2FSb2I3U12jNacl%2FPoIRcILFw%2FTL7IOs5xMcpl9cWoCF46teG3DH6PSz2BLdn8pAMc5w6ts%2BNTiq9tUiIRIpsFsSk7TiqTS9yChXSSuOR1Mj9AgVy7Id4lBM%2BkxKMchfFdz0pMgcy5w2iI65GNpEvSGEv0Mn01egSje2dSiqPaaMS%2FvszC5ADv%2FWGaakekwIkuanxLV3q7u%2Fh5sIlTFnkFuWVf%2FFgolXhg5Ven3mk22%2FnK8DGGQm4kCYJrqkaoyyJCZSA%3D%3D" />][ace]
+[<img alt="Cloudflare Accredited Services Architect (ASA)" width="100px" src="https://tvdn.me/assets/certifications/asa.png" />][asa]
+[<img alt="Cloudflare Accredited Zero Trust Engineer (ZTE)" width="100px" src="https://tvdn.me/assets/certifications/zte.png" />][zte]
+[<img alt="Cloudflare Accredited Configuration Engineer (ACE)" width="100px" src="https://tvdn.me/assets/certifications/ace.png" />][ace]
 [<img alt="Red Hat Certified OpenShift Administrator" width="100px" src="https://images.credly.com/size/110x110/images/b6cf67d4-0533-495b-acfe-9d08bb50bef1/image.png" />][ex280]
 [<img alt="Red Hat OpenShift Administration III: Scaling Deployments in the Enterprise (DO380) - Ver. 4.14" width="100px" src="https://images.credly.com/size/110x110/images/8865c9f8-8a9a-47f2-9a67-e7873146dca0/image.png" />][do380]
 
@@ -23,7 +18,6 @@
 
 [<img align="left" alt="TvdN.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Thomas van den Nieuwenhoff | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Thomas van den Nieuwenhoff | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Thomas van den Nieuwenhoff | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 <br />
@@ -104,7 +98,6 @@ Last Updated: Thursday, January 15th, 2026, 2:56:29 AM
 [salt]: https://salt-security.com
 [website]: https://tvdn.me
 [linkedin]: https://www.linkedin.com/in/tvdn
-[instagram]: https://www.instagram.com/thomasikdus/
 [whatsapp]: https://wa.me/message/XLBMO7NODAYRP1
 [vscode]: https://code.visualstudio.com/
 [html5]: https://www.w3.org/html/
@@ -146,8 +139,6 @@ Last Updated: Thursday, January 15th, 2026, 2:56:29 AM
 [terraform]: https://terraform.io
 [wordpress]: https://wordpress.com
 [asa]: https://university.cloudflare.com/credential/verify/260ad5dc-bb33-4fea-be51-266c8e80553e
-[amsp]: https://university.cloudflare.com/credential/verify/f1db1fd9-e0dc-45eb-b111-47e0a884f24f
-[ase]: https://university.cloudflare.com/credential/verify/18688620-b859-4e55-8563-8eee8ed3e0d4
 [zte]: https://university.cloudflare.com/credential/verify/b9b183ab-ff65-4c24-bc79-852aa73a08f4
 [ace]: https://university.cloudflare.com/credential/verify/446f6fad-4737-477d-8db0-f425a704c134
 [ex280]: https://www.credly.com/badges/18f84f10-92f3-4667-9641-2eaa96ad23a4/public_url
