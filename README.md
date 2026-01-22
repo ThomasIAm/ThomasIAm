@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.3.0: Form Data Payload Support](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder/releases/tag/v1.3.0) in [Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder)<br>
+1. ✌️ Released [v2.0.0: Go rewrite with bubbletea TUI](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder/releases/tag/v2.0.0) in [Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder)<br>
 2. ⬆️ Pushed undefined commit(s) to [Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder)<br>
-3. ⬆️ Pushed undefined commit(s) to [Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder)<br>
-4. ✌️ Released [v1.2.0: Rename Payload Output File](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder/releases/tag/v1.2.0) in [Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder)<br>
+3. 👍 Approved [#1](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder/pull/1#pullrequestreview-3689617235) in [Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder)<br>
+4. 👍 Approved [#1](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder/pull/1#pullrequestreview-3689614562) in [Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder)<br>
 5. ⬆️ Pushed undefined commit(s) to [Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder)<br>
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 21st, 2026, 3:00:51 AM
+Last Updated: Thursday, January 22nd, 2026, 3:01:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
