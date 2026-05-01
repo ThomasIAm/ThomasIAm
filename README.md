@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#30239](undefined) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)<br>
-2. ⬆️ Pushed undefined commit(s) to [ThomasIAm/cloudflare-docs](https://github.com/ThomasIAm/cloudflare-docs)<br>
-3. ⬆️ Pushed undefined commit(s) to [ThomasIAm/winget-pkgs](https://github.com/ThomasIAm/winget-pkgs)<br>
-4. 💪 Opened PR [#363874](undefined) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)<br>
-5. ⬆️ Pushed undefined commit(s) to [ThomasIAm/winget-pkgs](https://github.com/ThomasIAm/winget-pkgs)<br>
+1. ⬆️ Pushed undefined commit(s) to [Devolvio-B-V/cloudflare-api-schemas](https://github.com/Devolvio-B-V/cloudflare-api-schemas)<br>
+2. 💪 Opened PR [#30239](undefined) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)<br>
+3. ⬆️ Pushed undefined commit(s) to [ThomasIAm/cloudflare-docs](https://github.com/ThomasIAm/cloudflare-docs)<br>
+4. ⬆️ Pushed undefined commit(s) to [ThomasIAm/winget-pkgs](https://github.com/ThomasIAm/winget-pkgs)<br>
+5. 💪 Opened PR [#363874](undefined) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)<br>
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 30th, 2026, 4:29:53 AM
+Last Updated: Friday, May 1st, 2026, 4:39:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
