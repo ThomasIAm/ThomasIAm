@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Devolvio-B-V/cloudflare-api-schemas](https://github.com/Devolvio-B-V/cloudflare-api-schemas)<br>
-2. 💪 Opened PR [#30239](undefined) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)<br>
-3. ⬆️ Pushed undefined commit(s) to [ThomasIAm/cloudflare-docs](https://github.com/ThomasIAm/cloudflare-docs)<br>
-4. ⬆️ Pushed undefined commit(s) to [ThomasIAm/winget-pkgs](https://github.com/ThomasIAm/winget-pkgs)<br>
-5. 💪 Opened PR [#363874](undefined) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)<br>
+1. 💪 Opened PR [#30636](undefined) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)<br>
+2. ⬆️ Pushed undefined commit(s) to [ThomasIAm/cloudflare-docs](https://github.com/ThomasIAm/cloudflare-docs)<br>
+3. ⬆️ Pushed undefined commit(s) to [Devolvio-B-V/cloudflare-api-schemas](https://github.com/Devolvio-B-V/cloudflare-api-schemas)<br>
+4. 💪 Opened PR [#30239](undefined) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)<br>
+5. ⬆️ Pushed undefined commit(s) to [ThomasIAm/cloudflare-docs](https://github.com/ThomasIAm/cloudflare-docs)<br>
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 6th, 2026, 4:27:29 AM
+Last Updated: Thursday, May 7th, 2026, 4:28:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
