@@ -73,15 +73,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#13](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder/pull/13#pullrequestreview-4311832327) in [Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder)<br>
-2. ❗️ Opened issue [#12](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder/issues/12) in [Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder)<br>
-3. ⬆️ Pushed undefined commit(s) to [ThomasIAm/cloudflare-docs](https://github.com/ThomasIAm/cloudflare-docs)<br>
-4. ⬆️ Pushed undefined commit(s) to [ThomasIAm/cloudflare-docs](https://github.com/ThomasIAm/cloudflare-docs)<br>
-5. 💪 Opened PR [#30636](undefined) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)<br>
+1. ⬆️ Pushed undefined commit(s) to [Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder)<br>
+2. ❌ Closed PR [#376329](undefined) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)<br>
+3. 💪 Opened PR [#376329](undefined) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)<br>
+4. ⬆️ Pushed undefined commit(s) to [ThomasIAm/winget-pkgs](https://github.com/ThomasIAm/winget-pkgs)<br>
+5. ⬆️ Pushed undefined commit(s) to [ThomasIAm/winget-pkgs](https://github.com/ThomasIAm/winget-pkgs)<br>
 <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 19th, 2026, 4:51:11 AM
+Last Updated: Wednesday, May 20th, 2026, 4:51:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
