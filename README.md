@@ -46,13 +46,12 @@ thomas@tvdn:~$ _
 
 <div align="center">
 
-[<img alt="Cloudflare Accredited Services Architect (ASA)" width="95px" src="https://tvdn.me/assets/certifications/asa.png" />][asa]
-[<img alt="Cloudflare Accredited Zero Trust Engineer (ZTE)" width="95px" src="https://tvdn.me/assets/certifications/zte.png" />][zte]
-[<img alt="Cloudflare Accredited Configuration Engineer (ACE)" width="95px" src="https://tvdn.me/assets/certifications/ace.png" />][ace]
+[<img alt="Cloudflare One Advanced" width="95px" src="https://tvdn.me/assets/certifications/cfoneadv.png" />][cf1a]
+[<img alt="Cloudflare Application Security Advanced" width="95px" src="https://tvdn.me/assets/certifications/appsecadv.png" />][cfasa]
 [<img alt="Red Hat Certified OpenShift Administrator (EX280)" width="95px" src="https://images.credly.com/size/110x110/images/b6cf67d4-0533-495b-acfe-9d08bb50bef1/image.png" />][ex280]
 [<img alt="Red Hat OpenShift Administration III (DO380)" width="95px" src="https://images.credly.com/size/110x110/images/8865c9f8-8a9a-47f2-9a67-e7873146dca0/image.png" />][do380]
 
-<sub>Cloudflare **ASA** · **ZTE** · **ACE**  ·  Red Hat OpenShift **EX280** · **DO380**</sub>
+<sub>Cloudflare **Architect** · **Zero Trust** · **App Sec**  ·  Red Hat OpenShift **Architect** · **Admin**</sub>
 
 </div>
 
