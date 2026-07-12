@@ -186,8 +186,7 @@ Let's talk. 👇
 [website]: https://tvdn.me
 [linkedin]: https://www.linkedin.com/in/tvdn
 [whatsapp]: https://wa.me/message/XLBMO7NODAYRP1
-[asa]: https://university.cloudflare.com/credential/verify/260ad5dc-bb33-4fea-be51-266c8e80553e
-[zte]: https://university.cloudflare.com/credential/verify/b9b183ab-ff65-4c24-bc79-852aa73a08f4
-[ace]: https://university.cloudflare.com/credential/verify/446f6fad-4737-477d-8db0-f425a704c134
+[cf1a]: https://university.cloudflare.com/credential/verify/8af04ea4-8023-4889-bbb3-e7b8a16343ba
+[cfasa]: https://university.cloudflare.com/credential/verify/a52c3432-e2a9-445b-9ee6-e01e63484116
 [ex280]: https://www.credly.com/badges/18f84f10-92f3-4667-9641-2eaa96ad23a4/public_url
 [do380]: https://www.credly.com/badges/d8cb9547-4229-4a5b-94ed-df8bcc30c909/public_url
