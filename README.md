@@ -172,7 +172,7 @@ Last Updated: Sunday, July 12th, 2026, 4:13:49 AM
 **Looking for cyber security expertise — or wondering why it matters?**
 Let's talk. 👇
 
-[![Get in touch](https://img.shields.io/badge/Get%20in%20touch-F38020?style=for-the-badge&logo=minutemailer&logoColor=white)](https://tvdn.me)
+[![Get in touch](https://img.shields.io/badge/Get%20in%20touch-F38020?style=for-the-badge&logo=minutemailer&logoColor=white)](https://tvdn.me/contact)
 
 <img width="100%" src="./.github/assets/footer.svg" alt="footer" />
 
