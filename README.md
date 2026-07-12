@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:1a1f2e,100:F38020&height=200&section=header&text=Thomas%20van%20den%20Nieuwenhoff&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Lead%20Cyber%20Security%20Consultant%20%7C%20Cloud%20%26%20Zero%20Trust%20%7C%20Builder&descAlignY=60&descSize=18" alt="header" />
+<img width="100%" src="./.github/assets/header.svg" alt="Thomas van den Nieuwenhoff — Lead Cyber Security Consultant" />
 
 <a href="https://tvdn.me">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F38020&center=true&vCenter=true&width=650&lines=Securing+businesses+in+a+digital+world;Cloudflare+Zero+Trust+specialist;Red+Hat+OpenShift+administrator;Shipping+apps+with+AI+as+my+co-pilot" alt="Typing SVG" />
@@ -176,7 +176,7 @@ Let's talk. 👇
 
 [![Get in touch](https://img.shields.io/badge/Get%20in%20touch-F38020?style=for-the-badge&logo=minutemailer&logoColor=white)](https://tvdn.me)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F38020,50:1a1f2e,100:0A0E14&height=120&section=footer" alt="footer" />
+<img width="100%" src="./.github/assets/footer.svg" alt="footer" />
 
 </div>
 
