@@ -101,6 +101,16 @@ thomas@tvdn:~$ _
 <tr>
 <td width="50%" valign="top">
 
+#### 🔐 [cloudflare-dlp-forensic-copy-decoder](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder)
+
+CLI + interactive TUI to decode & extract Cloudflare DLP forensic copies from compressed logs.
+
+[![stars](https://img.shields.io/github/stars/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder?style=flat-square&labelColor=0A0E14&color=F38020&logo=github&logoColor=white)](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder/stargazers)
+![lang](https://img.shields.io/github/languages/top/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder?style=flat-square&labelColor=0A0E14&color=1f6feb)
+
+</td>
+<td width="50%" valign="top">
+
 #### 🛰️ [portfolio-vite](https://github.com/ThomasIAm/portfolio-vite)
 
 Personal portfolio, built with Vite + React + TypeScript.
@@ -109,14 +119,27 @@ Personal portfolio, built with Vite + React + TypeScript.
 ![lang](https://img.shields.io/github/languages/top/ThomasIAm/portfolio-vite?style=flat-square&labelColor=0A0E14&color=1f6feb)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-#### ☁️ [cloudflare-api-schemas](https://github.com/Devolvio-B-V/cloudflare-api-schemas)
+#### 🖥️ [VM2Portaal](https://github.com/ThomasIAm/VM2Portaal)
 
-Machine-readable Cloudflare API schemas — tooling built at **Devolvio**.
+The frontend for a simple cloud portal.
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![API](https://img.shields.io/badge/API%20schemas-1a1f2e?style=flat-square)
+[![stars](https://img.shields.io/github/stars/ThomasIAm/VM2Portaal?style=flat-square&labelColor=0A0E14&color=F38020&logo=github&logoColor=white)](https://github.com/ThomasIAm/VM2Portaal/stargazers)
+![lang](https://img.shields.io/github/languages/top/ThomasIAm/VM2Portaal?style=flat-square&labelColor=0A0E14&color=1f6feb)
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚙️ [VM2](https://github.com/ThomasIAm/VM2)
+
+Ansible implementation powering a custom cloud portal (VM2Portaal).
+
+[![stars](https://img.shields.io/github/stars/ThomasIAm/VM2?style=flat-square&labelColor=0A0E14&color=F38020&logo=github&logoColor=white)](https://github.com/ThomasIAm/VM2/stargazers)
+![lang](https://img.shields.io/github/languages/top/ThomasIAm/VM2?style=flat-square&labelColor=0A0E14&color=1f6feb)
+![archived](https://img.shields.io/badge/archived-6e7681?style=flat-square)
 
 </td>
 </tr>
@@ -125,20 +148,21 @@ Machine-readable Cloudflare API schemas — tooling built at **Devolvio**.
 
 #### ⛰️ [Young-Mountaineers](https://github.com/ThomasIAm/Young-Mountaineers)
 
-Full backoffice + public portfolio webapp built with Meteor.
+Backoffice + public portfolio webapp built with Mendix.
 
 [![stars](https://img.shields.io/github/stars/ThomasIAm/Young-Mountaineers?style=flat-square&labelColor=0A0E14&color=F38020&logo=github&logoColor=white)](https://github.com/ThomasIAm/Young-Mountaineers/stargazers)
 ![lang](https://img.shields.io/github/languages/top/ThomasIAm/Young-Mountaineers?style=flat-square&labelColor=0A0E14&color=1f6feb)
+![archived](https://img.shields.io/badge/archived-6e7681?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-#### 📈 [upptime](https://github.com/ThomasIAm/upptime)
+#### 😅 [benikincapabel.nl](https://github.com/ThomasIAm/benikincapabel.nl)
 
-Uptime monitor & status page, powered by Upptime.
+The site behind benikincapabel.nl — a joke gone wrong.
 
-[![stars](https://img.shields.io/github/stars/ThomasIAm/upptime?style=flat-square&labelColor=0A0E14&color=F38020&logo=github&logoColor=white)](https://github.com/ThomasIAm/upptime/stargazers)
-![lang](https://img.shields.io/github/languages/top/ThomasIAm/upptime?style=flat-square&labelColor=0A0E14&color=1f6feb)
+[![stars](https://img.shields.io/github/stars/ThomasIAm/benikincapabel.nl?style=flat-square&labelColor=0A0E14&color=F38020&logo=github&logoColor=white)](https://github.com/ThomasIAm/benikincapabel.nl/stargazers)
+![lang](https://img.shields.io/github/languages/top/ThomasIAm/benikincapabel.nl?style=flat-square&labelColor=0A0E14&color=1f6feb)
 
 </td>
 </tr>
