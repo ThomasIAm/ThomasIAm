@@ -29,12 +29,11 @@
 thomas@tvdn:~$ whoami --verbose
 
   Name        : Thomas van den Nieuwenhoff
-  Role        : Lead Cyber Security Consultant @ SALT
+  Role        : Lead Cyber Security Consultant @ SALT Cyber Security 
   Focus       : Zero Trust · Cloudflare · Cloud security · OpenShift
   Mission     : Helping businesses thrive — and stay safe — in the digital world
   Currently   : Building apps & tools with AI as an effective co-pilot
   Open to     : Companies that need a cyber security expert (or want to know why they do)
-  Fun fact    : I once won a bicycle 🚲
 
 thomas@tvdn:~$ _
 ```
