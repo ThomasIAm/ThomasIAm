@@ -12,8 +12,8 @@
 
 <br />
 
-[![Website](https://img.shields.io/badge/tvdn.me-F38020?style=for-the-badge&logo=hugo&logoColor=white)](https://tvdn.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tvdn)
+[![Website](https://img.shields.io/badge/tvdn.me-F38020?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg%3D%3D)](https://tvdn.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/tvdn)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/XLBMO7NODAYRP1)
 [![Profile Views](https://komarev.com/ghpvc/?username=ThomasIAm&style=for-the-badge&color=F38020&label=PROFILE+VIEWS)](https://github.com/ThomasIAm)
 
@@ -66,7 +66,7 @@ thomas@tvdn:~$ _
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/Zero%20Trust-0A0E14?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTUuNDgzIDIxLjNIMjRMMTQuMDI1IDQuMDEzbC0zLjAzOCA4LjM0NyA1LjgzNiA2LjkzOEw1LjQ4MyAyMS4zek0xMy4yMyAyLjdMNi4xMDUgOC42NzcgMCAxOS4yNTNoNS41MDV2LjAxNEwxMy4yMyAyLjd6Ii8%2BPC9zdmc%2B)
 ![Linux](https://img.shields.io/badge/Linux-1793D1?style=flat-square&logo=linux&logoColor=white)
 
 **⚙️ Infra & DevOps**
@@ -77,7 +77,7 @@ thomas@tvdn:~$ _
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBvbHlsaW5lIHBvaW50cz0iNCAxNyAxMCAxMSA0IDUiLz48bGluZSB4MT0iMTIiIHkxPSIxOSIgeDI9IjIwIiB5Mj0iMTkiLz48L3N2Zz4%3D)
 
 **💻 Development**
 
@@ -97,68 +97,66 @@ thomas@tvdn:~$ _
 
 ## `> git log --featured`
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/ThomasIAm/portfolio-vite">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasIAm&repo=portfolio-vite&theme=tokyonight&hide_border=true&bg_color=0A0E14&icon_color=F38020&title_color=F38020" alt="portfolio-vite" />
-</a>
-<a href="https://github.com/ThomasIAm/Young-Mountaineers">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasIAm&repo=Young-Mountaineers&theme=tokyonight&hide_border=true&bg_color=0A0E14&icon_color=F38020&title_color=F38020" alt="Young-Mountaineers" />
-</a>
-<br />
-<a href="https://github.com/Devolvio-B-V/cloudflare-api-schemas">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Devolvio-B-V&repo=cloudflare-api-schemas&theme=tokyonight&hide_border=true&bg_color=0A0E14&icon_color=F38020&title_color=F38020" alt="cloudflare-api-schemas" />
-</a>
-<a href="https://github.com/ThomasIAm/upptime">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasIAm&repo=upptime&theme=tokyonight&hide_border=true&bg_color=0A0E14&icon_color=F38020&title_color=F38020" alt="upptime status page" />
-</a>
+#### 🛰️ [portfolio-vite](https://github.com/ThomasIAm/portfolio-vite)
 
-</div>
+Personal portfolio, built with Vite + React + TypeScript.
+
+[![stars](https://img.shields.io/github/stars/ThomasIAm/portfolio-vite?style=flat-square&labelColor=0A0E14&color=F38020&logo=github&logoColor=white)](https://github.com/ThomasIAm/portfolio-vite/stargazers)
+![lang](https://img.shields.io/github/languages/top/ThomasIAm/portfolio-vite?style=flat-square&labelColor=0A0E14&color=1f6feb)
+
+</td>
+<td width="50%" valign="top">
+
+#### ☁️ [cloudflare-api-schemas](https://github.com/Devolvio-B-V/cloudflare-api-schemas)
+
+Machine-readable Cloudflare API schemas — tooling built at **Devolvio**.
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![API](https://img.shields.io/badge/API%20schemas-1a1f2e?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⛰️ [Young-Mountaineers](https://github.com/ThomasIAm/Young-Mountaineers)
+
+Full backoffice + public portfolio webapp built with Meteor.
+
+[![stars](https://img.shields.io/github/stars/ThomasIAm/Young-Mountaineers?style=flat-square&labelColor=0A0E14&color=F38020&logo=github&logoColor=white)](https://github.com/ThomasIAm/Young-Mountaineers/stargazers)
+![lang](https://img.shields.io/github/languages/top/ThomasIAm/Young-Mountaineers?style=flat-square&labelColor=0A0E14&color=1f6feb)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📈 [upptime](https://github.com/ThomasIAm/upptime)
+
+Uptime monitor & status page, powered by Upptime.
+
+[![stars](https://img.shields.io/github/stars/ThomasIAm/upptime?style=flat-square&labelColor=0A0E14&color=F38020&logo=github&logoColor=white)](https://github.com/ThomasIAm/upptime/stargazers)
+![lang](https://img.shields.io/github/languages/top/ThomasIAm/upptime?style=flat-square&labelColor=0A0E14&color=1f6feb)
+
+</td>
+</tr>
+</table>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                            STATS                                  ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
 
-## `> gh stats --all`
+## `> gh stats`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasIAm&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0A0E14&icon_color=F38020&title_color=F38020&include_all_commits=true" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasIAm&layout=compact&hide_border=true&theme=tokyonight&bg_color=0A0E14&title_color=F38020&langs_count=8" alt="top languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasIAm&hide_border=true&theme=tokyonight&background=0A0E14&ring=F38020&fire=F38020&currStreakLabel=F38020" alt="streak" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=ThomasIAm&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+[![Followers](https://img.shields.io/github/followers/ThomasIAm?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=F38020&labelColor=0A0E14)](https://github.com/ThomasIAm?tab=followers)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FThomasIAm&query=%24.public_repos&style=for-the-badge&label=PUBLIC%20REPOS&color=F38020&labelColor=0A0E14&logo=github&logoColor=white)](https://github.com/ThomasIAm?tab=repositories)
+[![Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FThomasIAm&query=%24.public_gists&style=for-the-badge&label=GISTS&color=F38020&labelColor=0A0E14&logo=github&logoColor=white)](https://gist.github.com/ThomasIAm)
 
 </div>
-
-<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       RECENT ACTIVITY                             ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
-
-## `> tail -f ./activity.log`
-
-<details open>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br />
-
-  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Devolvio-B-V/cloudflare-api-schemas](https://github.com/Devolvio-B-V/cloudflare-api-schemas)<br>
-2. ⬆️ Pushed undefined commit(s) to [ThomasIAm/portfolio-vite](https://github.com/ThomasIAm/portfolio-vite)<br>
-3. ⬆️ Pushed undefined commit(s) to [ThomasIAm/portfolio-vite](https://github.com/ThomasIAm/portfolio-vite)<br>
-4. ⬆️ Pushed undefined commit(s) to [ThomasIAm/portfolio-vite](https://github.com/ThomasIAm/portfolio-vite)<br>
-5. ⬆️ Pushed undefined commit(s) to [ThomasIAm/portfolio-vite](https://github.com/ThomasIAm/portfolio-vite)<br>
-<!--RECENT_ACTIVITY:end-->
-
-  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 12th, 2026, 4:13:49 AM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-</details>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                            OUTRO                                  ║ -->
