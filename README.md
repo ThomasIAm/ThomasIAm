@@ -1,145 +1,214 @@
-### Hi there, I'm Thomas 👋
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          HERO / HEADER                            ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
 
-## I'm a Son, Brother, and Young Professional!
+<div align="center">
 
-- 🔭 I am a lead cyber security consultant at [SALT] with a passion for helping businesses thrive in the digital world. With my years of experience and a strong background in technology, I am dedicated to helping my team and clients achieve success in the ever-evolving landscape of cyber security.
-- 🌱 I'm currently learning to use AI tools as an effective assistant in my daily work. I also like to build apps/tools with it.
-- 💼 I'm looking for businesses that need experts in cyber security or want to know why it's important.
-- ⚡ Fun fact: I won a bicycle once 🚲.
+<img width="100%" src="./.github/assets/header.svg" alt="Thomas van den Nieuwenhoff — Lead Cyber Security Consultant" />
 
-### My qualifications:
-[<img alt="Cloudflare Accredited Services Architect (ASA)" width="100px" src="https://tvdn.me/assets/certifications/asa.png" />][asa]
-[<img alt="Cloudflare Accredited Zero Trust Engineer (ZTE)" width="100px" src="https://tvdn.me/assets/certifications/zte.png" />][zte]
-[<img alt="Cloudflare Accredited Configuration Engineer (ACE)" width="100px" src="https://tvdn.me/assets/certifications/ace.png" />][ace]
-[<img alt="Red Hat Certified OpenShift Administrator" width="100px" src="https://images.credly.com/size/110x110/images/b6cf67d4-0533-495b-acfe-9d08bb50bef1/image.png" />][ex280]
-[<img alt="Red Hat OpenShift Administration III: Scaling Deployments in the Enterprise (DO380) - Ver. 4.14" width="100px" src="https://images.credly.com/size/110x110/images/8865c9f8-8a9a-47f2-9a67-e7873146dca0/image.png" />][do380]
-
-### Connect with me:
-
-[<img align="left" alt="TvdN.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Thomas van den Nieuwenhoff | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Thomas van den Nieuwenhoff | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+<a href="https://tvdn.me">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F38020&center=true&vCenter=true&width=650&lines=Securing+businesses+in+a+digital+world;Cloudflare+Zero+Trust+specialist;Red+Hat+OpenShift+administrator;Shipping+apps+with+AI+as+my+co-pilot" alt="Typing SVG" />
+</a>
 
 <br />
 
-### Languages and Tools:
+[![Website](https://img.shields.io/badge/tvdn.me-F38020?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg%3D%3D)](https://tvdn.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/tvdn)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/XLBMO7NODAYRP1)
+[![Profile Views](https://komarev.com/ghpvc/?username=ThomasIAm&style=for-the-badge&color=F38020&label=PROFILE+VIEWS)](https://github.com/ThomasIAm)
 
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angular]
-[<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />][ansible]
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][aws]
-[<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" />][azure]
-[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][bash]
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
-[<img align="left" alt="Chrome Extension" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png" />][chromeextension]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][json]
-[<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][kubernetes]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
-[<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][md]
-[<img align="left" alt="Material Design" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png" />][materialdesign]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][npm]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />][php]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />][rpi]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="Telegram" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
-[<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />][terraform]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][ts]
-[<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
-[<img align="left" alt="Vagrant" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" />][vagrant]
-[<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][vim]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />][windows]
-[<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/wordpress/wordpress.png" />][wordpress]
+</div>
 
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                            WHOAMI                                 ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+
+## `> whoami`
+
+```bash
+thomas@tvdn:~$ whoami --verbose
+
+  Name        : Thomas van den Nieuwenhoff
+  Role        : Lead Cyber Security Consultant @ SALT Cyber Security 
+  Focus       : Zero Trust · Cloudflare · Cloud security · OpenShift
+  Mission     : Helping businesses thrive — and stay safe — in the digital world
+  Currently   : Building apps & tools with AI as an effective co-pilot
+  Open to     : Companies that need a cyber security expert (or want to know why they do)
+
+thomas@tvdn:~$ _
+```
+
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        CERTIFICATIONS                             ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+
+## `> ls ./certifications`
+
+<div align="center">
+
+[<img alt="Cloudflare One Advanced" width="95px" src="https://tvdn.me/assets/certifications/cfoneadv.png" />][cf1a]
+[<img alt="Cloudflare Application Security Advanced" width="95px" src="https://tvdn.me/assets/certifications/appsecadv.png" />][cfasa]
+[<img alt="Red Hat Certified OpenShift Administrator (EX280)" width="95px" src="https://images.credly.com/size/110x110/images/b6cf67d4-0533-495b-acfe-9d08bb50bef1/image.png" />][ex280]
+[<img alt="Red Hat OpenShift Administration III (DO380)" width="95px" src="https://images.credly.com/size/110x110/images/8865c9f8-8a9a-47f2-9a67-e7873146dca0/image.png" />][do380]
+
+<sub>Cloudflare **Architect** · **Zero Trust** · **App Sec**  ·  Red Hat OpenShift **Architect** · **Admin**</sub>
+
+</div>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         TECH ARSENAL                              ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+
+## `> cat ./tech-arsenal`
+
+**🛡️ Security & Cloud**
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-0A0E14?style=flat-square&logo=cloudflare&logoColor=F38020)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTUuNDgzIDIxLjNIMjRMMTQuMDI1IDQuMDEzbC0zLjAzOCA4LjM0NyA1LjgzNiA2LjkzOEw1LjQ4MyAyMS4zek0xMy4yMyAyLjdMNi4xMDUgOC42NzcgMCAxOS4yNTNoNS41MDV2LjAxNEwxMy4yMyAyLjd6Ii8%2BPC9zdmc%2B)
+![Linux](https://img.shields.io/badge/Linux-1793D1?style=flat-square&logo=linux&logoColor=white)
+
+**⚙️ Infra & DevOps**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBvbHlsaW5lIHBvaW50cz0iNCAxNyAxMCAxMSA0IDUiLz48bGluZSB4MT0iMTIiIHkxPSIxOSIgeDI9IjIwIiB5Mj0iMTkiLz48L3N2Zz4%3D)
+
+**💻 Development**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       FEATURED PROJECTS                           ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+
+## `> git log --featured`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔐 [cloudflare-dlp-forensic-copy-decoder](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder)
+
+CLI + interactive TUI to decode & extract Cloudflare DLP forensic copies from compressed logs.
+
+[![stars](https://img.shields.io/github/stars/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder?style=flat-square&labelColor=0A0E14&color=F38020&logo=github&logoColor=white)](https://github.com/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder/stargazers)
+![lang](https://img.shields.io/github/languages/top/Devolvio-B-V/cloudflare-dlp-forensic-copy-decoder?style=flat-square&labelColor=0A0E14&color=1f6feb)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛰️ [portfolio-vite](https://github.com/ThomasIAm/portfolio-vite)
+
+Personal portfolio, built with Vite + React + TypeScript.
+
+[![stars](https://img.shields.io/github/stars/ThomasIAm/portfolio-vite?style=flat-square&labelColor=0A0E14&color=F38020&logo=github&logoColor=white)](https://github.com/ThomasIAm/portfolio-vite/stargazers)
+![lang](https://img.shields.io/github/languages/top/ThomasIAm/portfolio-vite?style=flat-square&labelColor=0A0E14&color=1f6feb)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🖥️ [VM2Portaal](https://github.com/ThomasIAm/VM2Portaal)
+
+The frontend for a simple cloud portal.
+
+[![stars](https://img.shields.io/github/stars/ThomasIAm/VM2Portaal?style=flat-square&labelColor=0A0E14&color=F38020&logo=github&logoColor=white)](https://github.com/ThomasIAm/VM2Portaal/stargazers)
+![lang](https://img.shields.io/github/languages/top/ThomasIAm/VM2Portaal?style=flat-square&labelColor=0A0E14&color=1f6feb)
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚙️ [VM2](https://github.com/ThomasIAm/VM2)
+
+Ansible implementation powering a custom cloud portal (VM2Portaal).
+
+[![stars](https://img.shields.io/github/stars/ThomasIAm/VM2?style=flat-square&labelColor=0A0E14&color=F38020&logo=github&logoColor=white)](https://github.com/ThomasIAm/VM2/stargazers)
+![lang](https://img.shields.io/github/languages/top/ThomasIAm/VM2?style=flat-square&labelColor=0A0E14&color=1f6feb)
+![archived](https://img.shields.io/badge/archived-6e7681?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⛰️ [Young-Mountaineers](https://github.com/ThomasIAm/Young-Mountaineers)
+
+Backoffice + public portfolio webapp built with Mendix.
+
+[![stars](https://img.shields.io/github/stars/ThomasIAm/Young-Mountaineers?style=flat-square&labelColor=0A0E14&color=F38020&logo=github&logoColor=white)](https://github.com/ThomasIAm/Young-Mountaineers/stargazers)
+![lang](https://img.shields.io/github/languages/top/ThomasIAm/Young-Mountaineers?style=flat-square&labelColor=0A0E14&color=1f6feb)
+![archived](https://img.shields.io/badge/archived-6e7681?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### 😅 [benikincapabel.nl](https://github.com/ThomasIAm/benikincapabel.nl)
+
+The site behind benikincapabel.nl — a joke gone wrong.
+
+[![stars](https://img.shields.io/github/stars/ThomasIAm/benikincapabel.nl?style=flat-square&labelColor=0A0E14&color=F38020&logo=github&logoColor=white)](https://github.com/ThomasIAm/benikincapabel.nl/stargazers)
+![lang](https://img.shields.io/github/languages/top/ThomasIAm/benikincapabel.nl?style=flat-square&labelColor=0A0E14&color=1f6feb)
+
+</td>
+</tr>
+</table>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                            STATS                                  ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+
+## `> gh stats`
+
+<div align="center">
+
+[![Followers](https://img.shields.io/github/followers/ThomasIAm?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=F38020&labelColor=0A0E14)](https://github.com/ThomasIAm?tab=followers)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FThomasIAm&query=%24.public_repos&style=for-the-badge&label=PUBLIC%20REPOS&color=F38020&labelColor=0A0E14&logo=github&logoColor=white)](https://github.com/ThomasIAm?tab=repositories)
+[![Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FThomasIAm&query=%24.public_gists&style=for-the-badge&label=GISTS&color=F38020&labelColor=0A0E14&logo=github&logoColor=white)](https://gist.github.com/ThomasIAm)
+
+</div>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                            OUTRO                                  ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
 <br />
-<br />
 
----
+### `> Let's connect`
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ThomasIAm/ThomasIAm](https://github.com/ThomasIAm/ThomasIAm)<br>
-2. ⬆️ Pushed undefined commit(s) to [ThomasIAm/ThomasIAm](https://github.com/ThomasIAm/ThomasIAm)<br>
-3. ⬆️ Pushed undefined commit(s) to [ThomasIAm/ThomasIAm](https://github.com/ThomasIAm/ThomasIAm)<br>
-4. ⬆️ Pushed undefined commit(s) to [ThomasIAm/ThomasIAm](https://github.com/ThomasIAm/ThomasIAm)<br>
-5. ⬆️ Pushed undefined commit(s) to [ThomasIAm/ThomasIAm](https://github.com/ThomasIAm/ThomasIAm)<br>
-<!--RECENT_ACTIVITY:end-->
-  
-  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 13th, 2026, 4:16:59 AM
-<!--RECENT_ACTIVITY:last_update_end-->
+**Looking for cyber security expertise — or wondering why it matters?**
+Let's talk. 👇
 
-</details>
+[![Get in touch](https://img.shields.io/badge/Get%20in%20touch-F38020?style=for-the-badge&logo=minutemailer&logoColor=white)](https://tvdn.me/contact)
 
-<details>
-  <summary>:zap: Github Stats</summary>
+<img width="100%" src="./.github/assets/footer.svg" alt="footer" />
 
-  <img align="left" alt="ThomasIAm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ThomasIAm&show_icons=true&hide_border=true&count_private=true" />
-  <img align="left" alt="ThomasIAm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasIAm&layout=compact" />
+</div>
 
-</details>
-
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                           REFERENCES                              ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
 
 [salt]: https://salt-security.com
 [website]: https://tvdn.me
 [linkedin]: https://www.linkedin.com/in/tvdn
 [whatsapp]: https://wa.me/message/XLBMO7NODAYRP1
-[vscode]: https://code.visualstudio.com/
-[html5]: https://www.w3.org/html/
-[css3]: https://www.w3.org/Style/CSS/Overview.en.html
-[sass]: http://sass-lang.com/
-[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[node]: https://nodejs.org/en/
-[sql]: https://github.com/topics/sql
-[mysql]: https://www.mysql.com/
-[mongodb]: https://www.mongodb.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[android]: https://www.android.com/
-[angular]: https://angular.io/
-[ansible]: https://www.ansible.com/
-[bash]: https://www.gnu.org/software/bash/
-[bootstrap]: https://getbootstrap.com/
-[docker]: https://www.docker.com/
-[java]: https://www.oracle.com/technetwork/java/javase/overview/index.html
-[json]: http://www.json.org/
-[kubernetes]: https://kubernetes.io/
-[linux]: https://github.com/topics/linux
-[md]: https://daringfireball.net/projects/markdown/
-[materialdesign]: https://material.io/
-[npm]: https://www.npmjs.com/
-[php]: https://secure.php.net/
-[python]: https://www.python.org/
-[rpi]:https://www.raspberrypi.org/ 
-[ts]: https://www.typescriptlang.org/
-[ubuntu]: https://www.ubuntu.com/
-[vagrant]: https://www.vagrantup.com/
-[vim]: http://www.vim.org/download.php
-[windows]: https://www.microsoft.com/en-us/windows
-[terminal]: https://github.com/topics/terminal
-[chromeextension]: https://developer.chrome.com/docs/extensions/
-[aws]: https://aws.amazon.com
-[azure]: https://azure.microsoft.com
-[telegram]: https://telegram.org
-[terraform]: https://terraform.io
-[wordpress]: https://wordpress.com
-[asa]: https://university.cloudflare.com/credential/verify/260ad5dc-bb33-4fea-be51-266c8e80553e
-[zte]: https://university.cloudflare.com/credential/verify/b9b183ab-ff65-4c24-bc79-852aa73a08f4
-[ace]: https://university.cloudflare.com/credential/verify/446f6fad-4737-477d-8db0-f425a704c134
+[cf1a]: https://university.cloudflare.com/credential/verify/8af04ea4-8023-4889-bbb3-e7b8a16343ba
+[cfasa]: https://university.cloudflare.com/credential/verify/a52c3432-e2a9-445b-9ee6-e01e63484116
 [ex280]: https://www.credly.com/badges/18f84f10-92f3-4667-9641-2eaa96ad23a4/public_url
 [do380]: https://www.credly.com/badges/d8cb9547-4229-4a5b-94ed-df8bcc30c909/public_url

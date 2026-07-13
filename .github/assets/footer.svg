@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" fill="none" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F38020"/>
+      <stop offset="0.5" stop-color="#141a26"/>
+      <stop offset="1" stop-color="#0A0E14"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 60 C 200 20, 300 100, 500 60 S 800 20, 1000 60 S 1150 90, 1200 60 L1200 120 L0 120 Z"
+        fill="url(#fbg)" fill-opacity="0.85"/>
+  <path d="M0 78 C 220 40, 320 110, 520 78 S 820 40, 1020 78 S 1160 100, 1200 78 L1200 120 L0 120 Z"
+        fill="#0A0E14"/>
+  <text x="600" y="40" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace"
+        font-size="14" fill="#F38020" fill-opacity="0.9">thomas@tvdn:~$ exit</text>
+</svg>

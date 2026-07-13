@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" fill="none" role="img" aria-label="Thomas van den Nieuwenhoff — Lead Cyber Security Consultant">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0E14"/>
+      <stop offset="0.55" stop-color="#141a26"/>
+      <stop offset="1" stop-color="#1f150a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F38020"/>
+      <stop offset="1" stop-color="#FBAD41"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F38020" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F38020" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F38020" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#F38020" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="240" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="240" rx="16" fill="url(#grid)"/>
+
+  <!-- faint code motif -->
+  <g font-family="'JetBrains Mono','Courier New',monospace" font-size="13" fill="#F38020" fill-opacity="0.12">
+    <text x="40" y="46">01000011 01100110 · zero-trust · deny-by-default</text>
+    <text x="40" y="210">$ curl -s https://tvdn.me | verify --signature</text>
+  </g>
+
+  <!-- accent line -->
+  <rect x="60" y="150" width="520" height="3" rx="1.5" fill="url(#fade)"/>
+
+  <!-- name -->
+  <text x="60" y="112" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="800" fill="#ffffff" letter-spacing="0.5">
+    Thomas van den Nieuwenhoff
+  </text>
+
+  <!-- subtitle -->
+  <text x="62" y="182" font-family="'JetBrains Mono','Courier New',monospace" font-size="18" font-weight="600" fill="#c9d1d9">
+    <tspan fill="#F38020">&gt;</tspan> Lead Cyber Security Consultant
+    <tspan fill="#6e7681"> · </tspan>Cloud &amp; Zero Trust
+    <tspan fill="#6e7681"> · </tspan>Builder<tspan fill="#F38020">_</tspan>
+  </text>
+
+  <!-- shield emblem -->
+  <g transform="translate(1050 70)">
+    <path d="M50 0 L96 18 V60 C96 96 76 116 50 128 C24 116 4 96 4 60 V18 Z"
+          fill="none" stroke="url(#accent)" stroke-width="3" stroke-opacity="0.85"/>
+    <path d="M50 22 L74 32 V60 C74 82 62 94 50 100 C38 94 26 82 26 60 V32 Z"
+          fill="#F38020" fill-opacity="0.08"/>
+    <path d="M38 62 l9 9 l18 -20" fill="none" stroke="url(#accent)" stroke-width="4"
+          stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
