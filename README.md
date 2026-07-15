@@ -178,7 +178,7 @@ The site behind benikincapabel.nl — a joke gone wrong.
 <div align="center">
 
 [![Followers](https://img.shields.io/github/followers/ThomasIAm?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=F38020&labelColor=0A0E14)](https://github.com/ThomasIAm?tab=followers)
-[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FThomasIAm&query=$.public_repos&style=for-the-badge&label=PUBLIC%20REPOS&color=F38020&labelColor=0A0E14&logo=github&logoColor=white)](https://github.com/ThomasIAm?tab=repositories)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FThomasIAm&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&label=PUBLIC%20REPOS&labelColor=0a0e14&color=f38020)](https://github.com/ThomasIAm?tab=repositories)
 [![Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FThomasIAm&query=%24.public_gists&style=for-the-badge&label=GISTS&color=F38020&labelColor=0A0E14&logo=github&logoColor=white)](https://gist.github.com/ThomasIAm)
 
 </div>
