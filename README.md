@@ -48,8 +48,9 @@ thomas@tvdn:~$ _
 
 [<img alt="Cloudflare One Advanced" width="95px" src="https://tvdn.me/assets/certifications/cfoneadv.png" />][cf1a]
 [<img alt="Cloudflare Application Security Advanced" width="95px" src="https://tvdn.me/assets/certifications/appsecadv.png" />][cfasa]
-[<img alt="Red Hat Certified OpenShift Administrator (EX280)" width="95px" src="https://images.credly.com/size/110x110/images/b6cf67d4-0533-495b-acfe-9d08bb50bef1/image.png" />][ex280]
-[<img alt="Red Hat OpenShift Administration III (DO380)" width="95px" src="https://images.credly.com/size/110x110/images/8865c9f8-8a9a-47f2-9a67-e7873146dca0/image.png" />][do380]
+[<img alt="Red Hat Certified OpenShift Administrator (EX280)" width="95px" src="https://images.credly.com/images/e7a34dc0-feb1-44a1-b8e7-3f825faf1c8e/blob" />][ex280]
+[<img alt="Red Hat OpenShift Administration III (DO380)" width="95px" src="https://images.credly.com/images/6e0f72ef-1db3-4079-84be-59d39a4bccb3/image.png" />][do380]
+[<img alt="Claude Partner Badge - Claude Code" width="95px" src="https://images.credly.com/images/d8bc1ecf-6369-4bf9-8920-84169b35d918/blob" />][cpbcc]
 
 <sub>Cloudflare **Architect** · **Zero Trust** · **App Sec**  ·  Red Hat OpenShift **Architect** · **Admin**</sub>
 
@@ -177,7 +178,7 @@ The site behind benikincapabel.nl — a joke gone wrong.
 <div align="center">
 
 [![Followers](https://img.shields.io/github/followers/ThomasIAm?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=F38020&labelColor=0A0E14)](https://github.com/ThomasIAm?tab=followers)
-[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FThomasIAm&query=%24.public_repos&style=for-the-badge&label=PUBLIC%20REPOS&color=F38020&labelColor=0A0E14&logo=github&logoColor=white)](https://github.com/ThomasIAm?tab=repositories)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FThomasIAm&query=$.public_repos&style=for-the-badge&label=PUBLIC%20REPOS&color=F38020&labelColor=0A0E14&logo=github&logoColor=white)](https://github.com/ThomasIAm?tab=repositories)
 [![Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FThomasIAm&query=%24.public_gists&style=for-the-badge&label=GISTS&color=F38020&labelColor=0A0E14&logo=github&logoColor=white)](https://gist.github.com/ThomasIAm)
 
 </div>
@@ -194,7 +195,7 @@ The site behind benikincapabel.nl — a joke gone wrong.
 **Looking for cyber security expertise — or wondering why it matters?**
 Let's talk. 👇
 
-[![Get in touch](https://img.shields.io/badge/Get%20in%20touch-F38020?style=for-the-badge&logo=minutemailer&logoColor=white)](https://tvdn.me/contact)
+[![Get in touch](https://img.shields.io/badge/Get%20in%20touch-F38020?style=for-the-badge&logo=minutemailer&logoColor=white)](https://tvdn.me/contact)<br />
 
 <img width="100%" src="./.github/assets/footer.svg" alt="footer" />
 
@@ -212,3 +213,4 @@ Let's talk. 👇
 [cfasa]: https://university.cloudflare.com/credential/verify/a52c3432-e2a9-445b-9ee6-e01e63484116
 [ex280]: https://www.credly.com/badges/18f84f10-92f3-4667-9641-2eaa96ad23a4/public_url
 [do380]: https://www.credly.com/badges/d8cb9547-4229-4a5b-94ed-df8bcc30c909/public_url
+[cpbcc]: https://www.credly.com/badges/5c6d45d9-8a76-41ef-a14c-724c47e9ac8e/public_url
